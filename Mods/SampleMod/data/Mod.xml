@@ -24,6 +24,7 @@
 		<Include type="all" source="DATA:SampleMod/Data/AI/SampleAITargetHeuristics.xml" />	
 		
 		<!--Files for Elven Warrior Addition-->
+		<Include type="all" source="DATA:SampleMod/Data/GDIConstructionYard.xml"/>
 		<Include type="all" source="DATA:SampleMod/Data/SampleUpdatedWeapons.xml" />
 		<Include type="all" source="DATA:SampleMod/Data/SampleUpdatedArmor.xml" />
 		<Include type="all" source="DATA:SampleMod/Data/SampleUpdatedLogicCommand.xml" />
