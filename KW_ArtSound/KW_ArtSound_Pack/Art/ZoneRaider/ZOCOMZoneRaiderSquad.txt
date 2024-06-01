@@ -1,0 +1,19 @@
+Texture:FXSmokeCloud
+21e727da.eb59a2c7.asset
+Texture:FXSphereNRM
+21e727da.8c8826e2.asset
+Texture:FXLenzFlare04
+21e727da.1dccb615.asset
+Texture:FXFormation2
+21e727da.a515458b.asset
+Texture:Squad_Markers_Tex
+21e727da.f8f99cd2.asset
+W3DContainer:SQUADMARKGUZON
+f0f08712.6d42b975.asset
+subobject  bone 1
+W3DHierarchy:SQUADMARKGUZON
+61d7ea40.6d42b975.asset
+W3DMesh:GUZNRAIDER_FP
+c2b1a262.b44f643b.asset
+W3DMesh:SQUADMARKGUZON.SQUADMARKER
+c2b1a262.e9d51744.asset

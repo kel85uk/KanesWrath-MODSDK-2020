@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<BinaryAssetBuilderProject xmlns="urn:xmlns:ea.com:babproject">
+  <Stream Source="C:\KW_MOD_SDK\Mods\TestMod\data\mod.xml">
+    <Configuration Name="" Default="true">
+      <StreamReference ReferenceName="audio.xml" ReferenceManifest="C:\KW_MOD_SDK\BuiltMods\sagexml\audio.manifest" ReferenceConfiguration="" />
+      <StreamReference ReferenceName="global.xml" ReferenceManifest="C:\KW_MOD_SDK\BuiltMods\sagexml\global.manifest" ReferenceConfiguration="" />
+      <StreamReference ReferenceName="static.xml" ReferenceManifest="C:\KW_MOD_SDK\BuiltMods\sagexml\static.manifest" ReferenceConfiguration="" />
+    </Configuration>
+  </Stream>
+</BinaryAssetBuilderProject>

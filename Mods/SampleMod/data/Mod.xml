@@ -9,19 +9,19 @@
 		<Include type="reference" source="DATA:global.xml" />    
     
 		<!--UI Mod-->
-		<Include type="reference" source="DATA:SampleMod/Data/AptUI/MainMenu.xml" />
+<!-- 		<Include type="reference" source="DATA:SampleMod/Data/AptUI/MainMenu.xml" />
 		<Include type="reference" source="DATA:SampleMod/Data/AptUI/TacticalHUD.xml" />
 
-		<Include type="all" source="DATA:SampleMod/Data/SoundMod.xml" />
+		<Include type="all" source="DATA:SampleMod/Data/SoundMod.xml" /> -->
 
 		<!--Artwork include for Elven Warriors Portrait-->
-		<Include type="all" source="ART:Images/SampleUpdatedPackedImages.xml" />
+		<!-- <Include type="all" source="ART:Images/SampleUpdatedPackedImages.xml" /> -->
 		 
 		<!--Sample AI-->
-		<Include type="all" source="DATA:SampleMod/Data/AI/SampleNodOpeningMoves.xml" />	  
+		<I<!-- nclude type="all" source="DATA:SampleMod/Data/AI/SampleNodOpeningMoves.xml" />
 		<Include type="all" source="DATA:SampleMod/Data/AI/SampleNodPersonality.xml" />
 		<Include type="all" source="DATA:SampleMod/Data/AI/SampleNodStates.xml" />
-		<Include type="all" source="DATA:SampleMod/Data/AI/SampleAITargetHeuristics.xml" />	
+		<Include type="all" source="DATA:SampleMod/Data/AI/SampleAITargetHeuristics.xml" />	 -->
 		
 		<!--Files for Elven Warrior Addition-->
 		<Include type="all" source="DATA:SampleMod/Data/GDIConstructionYard.xml"/>

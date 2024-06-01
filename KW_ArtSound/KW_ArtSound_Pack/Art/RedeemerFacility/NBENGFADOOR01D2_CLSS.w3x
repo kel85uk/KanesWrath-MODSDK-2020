@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<W3DAnimation id="NBENGFADOOR01D2_CLSS" Hierarchy="NBENGFADOOR01D2_SKL" NumFrames="1" FrameRate="30">
+		<Channels/>
+	</W3DAnimation>
+</AssetDeclaration>

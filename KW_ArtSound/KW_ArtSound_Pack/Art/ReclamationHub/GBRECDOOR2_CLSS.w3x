@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<W3DAnimation id="GBRECDOOR2_CLSS" Hierarchy="GBRECDOOR1_SKL" NumFrames="2" FrameRate="30">
+		<Channels>
+			<ChannelScalar Pivot="1" Type="XTranslation" FirstFrame="0">
+				<Frame>-0.003519</Frame>
+				<Frame>0.000012</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="1" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.014266</Frame>
+				<Frame>-0.000051</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="2" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.013275</Frame>
+				<Frame>-0.000047</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="3" Type="XTranslation" FirstFrame="0">
+				<Frame>-0.005219</Frame>
+				<Frame>0.000018</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="3" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.009699</Frame>
+				<Frame>-0.000034</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="9" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.042522</Frame>
+				<Frame>-0.000151</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="10" Type="XTranslation" FirstFrame="0">
+				<Frame>-0.088693</Frame>
+				<Frame>-0.088693</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="10" Type="Visibility" FirstFrame="0">
+				<Frame>0.500000</Frame>
+				<Frame>0.500000</Frame>
+			</ChannelScalar>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>

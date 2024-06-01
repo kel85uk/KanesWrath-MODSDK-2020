@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!-- There is no guarantee that the extracted animation is correct! - Bibber -->
+	<W3DAnimation id="NURECKONER_DEPL" Hierarchy="NURECKONER_SKL" NumFrames="1" FrameRate="30">
+		<Channels>
+			<ChannelScalar Pivot="5" Type="YTranslation" FirstFrame="0">
+				<Frame>-0.189339</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="5" Type="ZTranslation" FirstFrame="0">
+				<Frame>-1.564619</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="6" Type="YTranslation" FirstFrame="0">
+				<Frame>2.183224</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="6" Type="ZTranslation" FirstFrame="0">
+				<Frame>-0.504706</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="6" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.705824" Y="0.000000" Z="0.000000" W="0.708388"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="9" Type="YTranslation" FirstFrame="0">
+				<Frame>-2.372422</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="9" Type="ZTranslation" FirstFrame="0">
+				<Frame>-0.183706</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="9" Type="Orientation" FirstFrame="0">
+				<Frame X="0.705275" Y="0.000000" Z="0.000000" W="0.708933"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="12" Type="YTranslation" FirstFrame="0">
+				<Frame>-2.397145</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="12" Type="ZTranslation" FirstFrame="0">
+				<Frame>-0.551543</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="12" Type="Orientation" FirstFrame="0">
+				<Frame X="0.709649" Y="0.000000" Z="0.000000" W="0.704556"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="14" Type="YTranslation" FirstFrame="0">
+				<Frame>2.185668</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="14" Type="ZTranslation" FirstFrame="0">
+				<Frame>-1.180460</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="14" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.705824" Y="0.000000" Z="0.000000" W="0.708388"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="16" Type="YTranslation" FirstFrame="0">
+				<Frame>2.185670</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="16" Type="ZTranslation" FirstFrame="0">
+				<Frame>-1.180459</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="16" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.705824" Y="0.000000" Z="0.000000" W="0.708388"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="18" Type="YTranslation" FirstFrame="0">
+				<Frame>-2.397149</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="18" Type="ZTranslation" FirstFrame="0">
+				<Frame>-0.551542</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="18" Type="Orientation" FirstFrame="0">
+				<Frame X="0.709649" Y="0.000000" Z="0.000000" W="0.704556"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="20" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="0.220137" Z="0.000000" W="0.975469"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="22" Type="ZTranslation" FirstFrame="0">
+				<Frame>-2.807071</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="24" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.683220</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="26" Type="XTranslation" FirstFrame="0">
+				<Frame>-6.251304</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="28" Type="XTranslation" FirstFrame="0">
+				<Frame>5.022780</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="30" Type="XTranslation" FirstFrame="0">
+				<Frame>42.003242</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="30" Type="YTranslation" FirstFrame="0">
+				<Frame>9.244441</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="30" Type="ZTranslation" FirstFrame="0">
+				<Frame>11.468690</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="30" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="-0.961308" Z="0.000000" W="-0.275476"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="33" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="-0.488735" Z="0.000000" W="0.872433"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="36" Type="XTranslation" FirstFrame="0">
+				<Frame>51.088963</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="36" Type="YTranslation" FirstFrame="0">
+				<Frame>11.079121</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="36" Type="ZTranslation" FirstFrame="0">
+				<Frame>-15.941046</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="36" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.050213" Y="0.030400" Z="-0.983710" W="-0.169908"/>
+			</ChannelQuaternion>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>

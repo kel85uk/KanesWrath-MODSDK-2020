@@ -1,0 +1,3938 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<W3DAnimation id="NBENGFADOOR03_OPN" Hierarchy="NBENGFADOOR_SKL" NumFrames="260" FrameRate="30">
+		<Channels>
+			<ChannelScalar Pivot="1" Type="XTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>0.056583</Frame>
+				<Frame>0.113167</Frame>
+				<Frame>0.169751</Frame>
+				<Frame>0.226334</Frame>
+				<Frame>0.282916</Frame>
+				<Frame>0.339499</Frame>
+				<Frame>0.396083</Frame>
+				<Frame>0.452666</Frame>
+				<Frame>0.509249</Frame>
+				<Frame>0.565833</Frame>
+				<Frame>0.622415</Frame>
+				<Frame>0.678999</Frame>
+				<Frame>0.735582</Frame>
+				<Frame>0.792165</Frame>
+				<Frame>0.848750</Frame>
+				<Frame>0.905332</Frame>
+				<Frame>0.961916</Frame>
+				<Frame>1.018499</Frame>
+				<Frame>1.075081</Frame>
+				<Frame>1.131666</Frame>
+				<Frame>1.188248</Frame>
+				<Frame>1.244833</Frame>
+				<Frame>1.301415</Frame>
+				<Frame>1.357999</Frame>
+				<Frame>1.414582</Frame>
+				<Frame>1.471164</Frame>
+				<Frame>1.527749</Frame>
+				<Frame>1.584331</Frame>
+				<Frame>1.640916</Frame>
+				<Frame>1.697498</Frame>
+				<Frame>1.754081</Frame>
+				<Frame>1.810663</Frame>
+				<Frame>1.867248</Frame>
+				<Frame>1.923832</Frame>
+				<Frame>1.980413</Frame>
+				<Frame>2.036999</Frame>
+				<Frame>2.093580</Frame>
+				<Frame>2.150164</Frame>
+				<Frame>2.206748</Frame>
+				<Frame>2.263331</Frame>
+				<Frame>2.319914</Frame>
+				<Frame>2.376498</Frame>
+				<Frame>2.433079</Frame>
+				<Frame>2.489663</Frame>
+				<Frame>2.546247</Frame>
+				<Frame>2.602829</Frame>
+				<Frame>2.659412</Frame>
+				<Frame>2.715996</Frame>
+				<Frame>2.772580</Frame>
+				<Frame>2.829162</Frame>
+				<Frame>2.885746</Frame>
+				<Frame>2.942331</Frame>
+				<Frame>2.998914</Frame>
+				<Frame>3.055496</Frame>
+				<Frame>3.112080</Frame>
+				<Frame>3.124283</Frame>
+				<Frame>3.136485</Frame>
+				<Frame>3.148690</Frame>
+				<Frame>3.160887</Frame>
+				<Frame>3.173103</Frame>
+				<Frame>3.185296</Frame>
+				<Frame>3.197503</Frame>
+				<Frame>3.209708</Frame>
+				<Frame>3.221910</Frame>
+				<Frame>3.234115</Frame>
+				<Frame>3.246315</Frame>
+				<Frame>3.258521</Frame>
+				<Frame>2.973932</Frame>
+				<Frame>2.883548</Frame>
+				<Frame>2.854191</Frame>
+				<Frame>2.854134</Frame>
+				<Frame>2.854076</Frame>
+				<Frame>2.854018</Frame>
+				<Frame>2.853961</Frame>
+				<Frame>2.853904</Frame>
+				<Frame>2.853846</Frame>
+				<Frame>2.853788</Frame>
+				<Frame>2.853731</Frame>
+				<Frame>2.853673</Frame>
+				<Frame>2.853616</Frame>
+				<Frame>2.853558</Frame>
+				<Frame>2.853501</Frame>
+				<Frame>2.853443</Frame>
+				<Frame>2.853386</Frame>
+				<Frame>2.853328</Frame>
+				<Frame>2.853271</Frame>
+				<Frame>2.853213</Frame>
+				<Frame>2.853156</Frame>
+				<Frame>2.853098</Frame>
+				<Frame>2.853041</Frame>
+				<Frame>2.852983</Frame>
+				<Frame>2.852926</Frame>
+				<Frame>2.852868</Frame>
+				<Frame>2.852811</Frame>
+				<Frame>2.852753</Frame>
+				<Frame>2.852696</Frame>
+				<Frame>2.852638</Frame>
+				<Frame>2.852581</Frame>
+				<Frame>2.852523</Frame>
+				<Frame>2.852466</Frame>
+				<Frame>2.852408</Frame>
+				<Frame>2.852351</Frame>
+				<Frame>2.852293</Frame>
+				<Frame>2.852236</Frame>
+				<Frame>2.852178</Frame>
+				<Frame>2.852121</Frame>
+				<Frame>2.852063</Frame>
+				<Frame>2.852005</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+				<Frame>2.851948</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="1" Type="YTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>0.460965</Frame>
+				<Frame>0.921923</Frame>
+				<Frame>1.382889</Frame>
+				<Frame>1.843855</Frame>
+				<Frame>2.304816</Frame>
+				<Frame>2.765783</Frame>
+				<Frame>3.226749</Frame>
+				<Frame>3.687716</Frame>
+				<Frame>4.148682</Frame>
+				<Frame>4.609644</Frame>
+				<Frame>5.070610</Frame>
+				<Frame>5.531568</Frame>
+				<Frame>5.992534</Frame>
+				<Frame>6.453501</Frame>
+				<Frame>6.914468</Frame>
+				<Frame>7.375433</Frame>
+				<Frame>7.836396</Frame>
+				<Frame>8.297358</Frame>
+				<Frame>8.758319</Frame>
+				<Frame>9.219286</Frame>
+				<Frame>9.680252</Frame>
+				<Frame>10.141219</Frame>
+				<Frame>10.602184</Frame>
+				<Frame>11.063143</Frame>
+				<Frame>11.524104</Frame>
+				<Frame>11.985070</Frame>
+				<Frame>12.446037</Frame>
+				<Frame>12.907002</Frame>
+				<Frame>13.367966</Frame>
+				<Frame>13.828932</Frame>
+				<Frame>14.289898</Frame>
+				<Frame>14.750859</Frame>
+				<Frame>15.211823</Frame>
+				<Frame>15.672789</Frame>
+				<Frame>16.133755</Frame>
+				<Frame>16.594717</Frame>
+				<Frame>17.055683</Frame>
+				<Frame>17.516645</Frame>
+				<Frame>17.977612</Frame>
+				<Frame>18.438578</Frame>
+				<Frame>18.899544</Frame>
+				<Frame>19.360506</Frame>
+				<Frame>19.821472</Frame>
+				<Frame>20.282434</Frame>
+				<Frame>20.743401</Frame>
+				<Frame>21.204357</Frame>
+				<Frame>21.665327</Frame>
+				<Frame>22.126289</Frame>
+				<Frame>22.587257</Frame>
+				<Frame>23.048223</Frame>
+				<Frame>23.509184</Frame>
+				<Frame>23.970152</Frame>
+				<Frame>24.431114</Frame>
+				<Frame>24.892080</Frame>
+				<Frame>25.353043</Frame>
+				<Frame>25.347912</Frame>
+				<Frame>25.342777</Frame>
+				<Frame>25.337643</Frame>
+				<Frame>25.332510</Frame>
+				<Frame>25.327374</Frame>
+				<Frame>25.322247</Frame>
+				<Frame>25.317108</Frame>
+				<Frame>25.311975</Frame>
+				<Frame>25.306841</Frame>
+				<Frame>25.301706</Frame>
+				<Frame>25.296576</Frame>
+				<Frame>25.291441</Frame>
+				<Frame>25.113661</Frame>
+				<Frame>24.531820</Frame>
+				<Frame>23.985483</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+				<Frame>23.743605</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="1" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>-1.162529</Frame>
+				<Frame>-2.325058</Frame>
+				<Frame>-3.487587</Frame>
+				<Frame>-4.650116</Frame>
+				<Frame>-5.812645</Frame>
+				<Frame>-6.975174</Frame>
+				<Frame>-8.137704</Frame>
+				<Frame>-9.300233</Frame>
+				<Frame>-10.462762</Frame>
+				<Frame>-11.625291</Frame>
+				<Frame>-12.787820</Frame>
+				<Frame>-13.950349</Frame>
+				<Frame>-15.112878</Frame>
+				<Frame>-16.275408</Frame>
+				<Frame>-17.437937</Frame>
+				<Frame>-18.600466</Frame>
+				<Frame>-19.762995</Frame>
+				<Frame>-20.925524</Frame>
+				<Frame>-22.088053</Frame>
+				<Frame>-23.250582</Frame>
+				<Frame>-24.413111</Frame>
+				<Frame>-25.575640</Frame>
+				<Frame>-26.738169</Frame>
+				<Frame>-27.900698</Frame>
+				<Frame>-29.063227</Frame>
+				<Frame>-30.225756</Frame>
+				<Frame>-31.388285</Frame>
+				<Frame>-32.550816</Frame>
+				<Frame>-33.713345</Frame>
+				<Frame>-34.875874</Frame>
+				<Frame>-36.038403</Frame>
+				<Frame>-37.200932</Frame>
+				<Frame>-38.363461</Frame>
+				<Frame>-39.525990</Frame>
+				<Frame>-40.688519</Frame>
+				<Frame>-41.851048</Frame>
+				<Frame>-43.013577</Frame>
+				<Frame>-44.176105</Frame>
+				<Frame>-45.338634</Frame>
+				<Frame>-46.501163</Frame>
+				<Frame>-47.663692</Frame>
+				<Frame>-48.826221</Frame>
+				<Frame>-49.988750</Frame>
+				<Frame>-51.151279</Frame>
+				<Frame>-52.313808</Frame>
+				<Frame>-53.476337</Frame>
+				<Frame>-54.638866</Frame>
+				<Frame>-55.801395</Frame>
+				<Frame>-56.963924</Frame>
+				<Frame>-58.126453</Frame>
+				<Frame>-59.288982</Frame>
+				<Frame>-60.451511</Frame>
+				<Frame>-61.614040</Frame>
+				<Frame>-62.776569</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.939098</Frame>
+				<Frame>-63.887955</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.836811</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.808044</Frame>
+				<Frame>-63.808044</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.808044</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.808044</Frame>
+				<Frame>-63.795490</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.808044</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.808041</Frame>
+				<Frame>-63.795486</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.833141</Frame>
+				<Frame>-63.820587</Frame>
+				<Frame>-63.795483</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.845695</Frame>
+				<Frame>-63.833141</Frame>
+				<Frame>-63.820587</Frame>
+				<Frame>-63.808033</Frame>
+				<Frame>-63.808033</Frame>
+				<Frame>-63.820587</Frame>
+				<Frame>-63.845692</Frame>
+				<Frame>-63.845692</Frame>
+				<Frame>-63.820587</Frame>
+				<Frame>-63.795483</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.833145</Frame>
+				<Frame>-63.845699</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.795490</Frame>
+				<Frame>-63.808044</Frame>
+				<Frame>-63.820599</Frame>
+				<Frame>-63.845703</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.808041</Frame>
+				<Frame>-63.795486</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.833145</Frame>
+				<Frame>-63.833145</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.795486</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.845695</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.833145</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.795486</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.845695</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.833145</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.833145</Frame>
+				<Frame>-63.833145</Frame>
+				<Frame>-63.808041</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.808041</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.808041</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.808041</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.808044</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.808041</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.833149</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.820595</Frame>
+				<Frame>-63.808041</Frame>
+				<Frame>-63.833145</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.833145</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.820591</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.808037</Frame>
+				<Frame>-63.830574</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="9" Type="XTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+				<Frame>0.000000</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="9" Type="YTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>-0.468487</Frame>
+				<Frame>-0.936970</Frame>
+				<Frame>-1.405457</Frame>
+				<Frame>-1.873947</Frame>
+				<Frame>-2.342426</Frame>
+				<Frame>-2.810913</Frame>
+				<Frame>-3.279404</Frame>
+				<Frame>-3.747890</Frame>
+				<Frame>-4.216377</Frame>
+				<Frame>-4.684860</Frame>
+				<Frame>-5.153351</Frame>
+				<Frame>-5.621830</Frame>
+				<Frame>-6.090317</Frame>
+				<Frame>-6.558807</Frame>
+				<Frame>-7.027294</Frame>
+				<Frame>-7.495781</Frame>
+				<Frame>-7.964263</Frame>
+				<Frame>-8.432751</Frame>
+				<Frame>-8.901230</Frame>
+				<Frame>-9.369724</Frame>
+				<Frame>-9.838207</Frame>
+				<Frame>-10.306698</Frame>
+				<Frame>-10.775185</Frame>
+				<Frame>-11.243668</Frame>
+				<Frame>-11.712150</Frame>
+				<Frame>-12.180633</Frame>
+				<Frame>-12.649123</Frame>
+				<Frame>-13.117610</Frame>
+				<Frame>-13.586097</Frame>
+				<Frame>-14.054580</Frame>
+				<Frame>-14.523070</Frame>
+				<Frame>-14.991553</Frame>
+				<Frame>-15.460040</Frame>
+				<Frame>-15.928527</Frame>
+				<Frame>-16.397011</Frame>
+				<Frame>-16.865498</Frame>
+				<Frame>-17.333984</Frame>
+				<Frame>-17.802471</Frame>
+				<Frame>-18.270958</Frame>
+				<Frame>-18.739445</Frame>
+				<Frame>-19.207932</Frame>
+				<Frame>-19.676416</Frame>
+				<Frame>-20.144903</Frame>
+				<Frame>-20.613386</Frame>
+				<Frame>-21.081873</Frame>
+				<Frame>-21.550356</Frame>
+				<Frame>-22.018847</Frame>
+				<Frame>-22.487329</Frame>
+				<Frame>-22.955816</Frame>
+				<Frame>-23.424303</Frame>
+				<Frame>-23.892790</Frame>
+				<Frame>-24.361277</Frame>
+				<Frame>-24.829760</Frame>
+				<Frame>-25.298250</Frame>
+				<Frame>-25.766733</Frame>
+				<Frame>-25.766584</Frame>
+				<Frame>-25.766436</Frame>
+				<Frame>-25.766287</Frame>
+				<Frame>-25.766138</Frame>
+				<Frame>-25.765989</Frame>
+				<Frame>-25.765841</Frame>
+				<Frame>-25.765692</Frame>
+				<Frame>-25.765543</Frame>
+				<Frame>-25.765392</Frame>
+				<Frame>-25.765244</Frame>
+				<Frame>-25.765095</Frame>
+				<Frame>-25.764946</Frame>
+				<Frame>-25.764797</Frame>
+				<Frame>-25.764648</Frame>
+				<Frame>-25.764500</Frame>
+				<Frame>-25.764351</Frame>
+				<Frame>-25.764202</Frame>
+				<Frame>-25.764053</Frame>
+				<Frame>-25.763905</Frame>
+				<Frame>-25.763756</Frame>
+				<Frame>-25.763607</Frame>
+				<Frame>-25.763458</Frame>
+				<Frame>-25.763309</Frame>
+				<Frame>-25.763161</Frame>
+				<Frame>-25.763012</Frame>
+				<Frame>-25.762861</Frame>
+				<Frame>-25.762712</Frame>
+				<Frame>-25.762564</Frame>
+				<Frame>-25.762415</Frame>
+				<Frame>-25.762266</Frame>
+				<Frame>-25.762117</Frame>
+				<Frame>-25.761969</Frame>
+				<Frame>-25.761820</Frame>
+				<Frame>-25.761671</Frame>
+				<Frame>-25.761522</Frame>
+				<Frame>-25.761374</Frame>
+				<Frame>-25.761225</Frame>
+				<Frame>-25.761076</Frame>
+				<Frame>-25.760927</Frame>
+				<Frame>-25.760778</Frame>
+				<Frame>-25.760630</Frame>
+				<Frame>-25.760481</Frame>
+				<Frame>-25.760330</Frame>
+				<Frame>-25.760181</Frame>
+				<Frame>-25.760033</Frame>
+				<Frame>-25.759884</Frame>
+				<Frame>-25.759735</Frame>
+				<Frame>-25.759586</Frame>
+				<Frame>-25.759438</Frame>
+				<Frame>-25.759289</Frame>
+				<Frame>-25.759140</Frame>
+				<Frame>-25.758991</Frame>
+				<Frame>-25.758842</Frame>
+				<Frame>-25.758694</Frame>
+				<Frame>-25.758545</Frame>
+				<Frame>-25.758396</Frame>
+				<Frame>-25.758247</Frame>
+				<Frame>-25.758099</Frame>
+				<Frame>-25.757950</Frame>
+				<Frame>-25.757799</Frame>
+				<Frame>-25.757650</Frame>
+				<Frame>-25.757502</Frame>
+				<Frame>-25.757353</Frame>
+				<Frame>-25.757204</Frame>
+				<Frame>-25.757055</Frame>
+				<Frame>-25.756907</Frame>
+				<Frame>-25.756758</Frame>
+				<Frame>-25.756609</Frame>
+				<Frame>-25.756460</Frame>
+				<Frame>-25.756311</Frame>
+				<Frame>-25.756163</Frame>
+				<Frame>-25.756014</Frame>
+				<Frame>-25.755865</Frame>
+				<Frame>-25.755716</Frame>
+				<Frame>-25.755568</Frame>
+				<Frame>-25.755419</Frame>
+				<Frame>-25.755268</Frame>
+				<Frame>-25.755119</Frame>
+				<Frame>-25.754971</Frame>
+				<Frame>-25.754822</Frame>
+				<Frame>-25.754673</Frame>
+				<Frame>-25.754524</Frame>
+				<Frame>-25.754375</Frame>
+				<Frame>-25.754227</Frame>
+				<Frame>-25.754078</Frame>
+				<Frame>-25.753929</Frame>
+				<Frame>-25.753780</Frame>
+				<Frame>-25.753632</Frame>
+				<Frame>-25.753483</Frame>
+				<Frame>-25.753334</Frame>
+				<Frame>-25.753185</Frame>
+				<Frame>-25.753036</Frame>
+				<Frame>-25.752888</Frame>
+				<Frame>-25.752737</Frame>
+				<Frame>-25.752588</Frame>
+				<Frame>-25.752439</Frame>
+				<Frame>-25.752291</Frame>
+				<Frame>-25.752142</Frame>
+				<Frame>-25.751993</Frame>
+				<Frame>-25.751844</Frame>
+				<Frame>-25.751696</Frame>
+				<Frame>-25.751547</Frame>
+				<Frame>-25.751398</Frame>
+				<Frame>-25.751249</Frame>
+				<Frame>-25.751101</Frame>
+				<Frame>-25.750952</Frame>
+				<Frame>-25.750803</Frame>
+				<Frame>-25.750654</Frame>
+				<Frame>-25.750505</Frame>
+				<Frame>-25.750357</Frame>
+				<Frame>-25.750206</Frame>
+				<Frame>-25.750057</Frame>
+				<Frame>-25.749908</Frame>
+				<Frame>-25.749760</Frame>
+				<Frame>-25.749611</Frame>
+				<Frame>-25.749462</Frame>
+				<Frame>-25.749313</Frame>
+				<Frame>-25.749165</Frame>
+				<Frame>-25.749016</Frame>
+				<Frame>-25.748867</Frame>
+				<Frame>-25.748718</Frame>
+				<Frame>-25.748569</Frame>
+				<Frame>-25.748421</Frame>
+				<Frame>-25.748272</Frame>
+				<Frame>-25.748123</Frame>
+				<Frame>-25.747974</Frame>
+				<Frame>-25.747826</Frame>
+				<Frame>-25.747675</Frame>
+				<Frame>-25.747526</Frame>
+				<Frame>-25.747377</Frame>
+				<Frame>-25.747229</Frame>
+				<Frame>-25.747080</Frame>
+				<Frame>-25.746931</Frame>
+				<Frame>-25.746782</Frame>
+				<Frame>-25.746634</Frame>
+				<Frame>-25.746485</Frame>
+				<Frame>-25.746336</Frame>
+				<Frame>-25.746187</Frame>
+				<Frame>-25.746038</Frame>
+				<Frame>-25.745890</Frame>
+				<Frame>-25.745741</Frame>
+				<Frame>-25.745592</Frame>
+				<Frame>-25.745443</Frame>
+				<Frame>-25.745295</Frame>
+				<Frame>-25.745144</Frame>
+				<Frame>-25.744995</Frame>
+				<Frame>-25.744846</Frame>
+				<Frame>-25.744698</Frame>
+				<Frame>-25.744549</Frame>
+				<Frame>-25.744400</Frame>
+				<Frame>-25.744251</Frame>
+				<Frame>-25.744102</Frame>
+				<Frame>-25.743954</Frame>
+				<Frame>-25.743805</Frame>
+				<Frame>-25.743656</Frame>
+				<Frame>-25.743507</Frame>
+				<Frame>-25.743359</Frame>
+				<Frame>-25.743210</Frame>
+				<Frame>-25.743061</Frame>
+				<Frame>-25.742912</Frame>
+				<Frame>-25.742764</Frame>
+				<Frame>-25.742613</Frame>
+				<Frame>-25.742464</Frame>
+				<Frame>-25.742315</Frame>
+				<Frame>-25.742167</Frame>
+				<Frame>-25.742018</Frame>
+				<Frame>-25.741869</Frame>
+				<Frame>-25.741720</Frame>
+				<Frame>-25.741571</Frame>
+				<Frame>-25.741423</Frame>
+				<Frame>-25.741274</Frame>
+				<Frame>-25.741125</Frame>
+				<Frame>-25.740976</Frame>
+				<Frame>-25.740828</Frame>
+				<Frame>-25.740679</Frame>
+				<Frame>-25.740530</Frame>
+				<Frame>-25.740381</Frame>
+				<Frame>-25.740232</Frame>
+				<Frame>-25.740082</Frame>
+				<Frame>-25.739933</Frame>
+				<Frame>-25.739784</Frame>
+				<Frame>-25.739635</Frame>
+				<Frame>-25.739487</Frame>
+				<Frame>-25.739338</Frame>
+				<Frame>-25.739189</Frame>
+				<Frame>-25.739040</Frame>
+				<Frame>-25.738892</Frame>
+				<Frame>-25.738743</Frame>
+				<Frame>-25.738594</Frame>
+				<Frame>-25.738445</Frame>
+				<Frame>-25.738297</Frame>
+				<Frame>-25.738148</Frame>
+				<Frame>-25.737999</Frame>
+				<Frame>-25.737850</Frame>
+				<Frame>-25.737701</Frame>
+				<Frame>-25.737551</Frame>
+				<Frame>-25.737402</Frame>
+				<Frame>-25.737253</Frame>
+				<Frame>-25.737104</Frame>
+				<Frame>-25.736956</Frame>
+				<Frame>-25.736807</Frame>
+				<Frame>-25.736658</Frame>
+				<Frame>-25.736509</Frame>
+				<Frame>-25.736361</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="9" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>-1.126360</Frame>
+				<Frame>-2.252721</Frame>
+				<Frame>-3.379081</Frame>
+				<Frame>-4.505441</Frame>
+				<Frame>-5.631802</Frame>
+				<Frame>-6.758162</Frame>
+				<Frame>-7.884522</Frame>
+				<Frame>-9.010882</Frame>
+				<Frame>-10.137242</Frame>
+				<Frame>-11.263602</Frame>
+				<Frame>-12.389962</Frame>
+				<Frame>-13.516322</Frame>
+				<Frame>-14.642682</Frame>
+				<Frame>-15.769042</Frame>
+				<Frame>-16.895403</Frame>
+				<Frame>-18.021763</Frame>
+				<Frame>-19.148123</Frame>
+				<Frame>-20.274483</Frame>
+				<Frame>-21.400843</Frame>
+				<Frame>-22.527203</Frame>
+				<Frame>-23.653563</Frame>
+				<Frame>-24.779922</Frame>
+				<Frame>-25.906282</Frame>
+				<Frame>-27.032642</Frame>
+				<Frame>-28.159002</Frame>
+				<Frame>-29.285362</Frame>
+				<Frame>-30.411722</Frame>
+				<Frame>-31.538082</Frame>
+				<Frame>-32.664444</Frame>
+				<Frame>-33.790806</Frame>
+				<Frame>-34.917168</Frame>
+				<Frame>-36.043530</Frame>
+				<Frame>-37.169891</Frame>
+				<Frame>-38.296253</Frame>
+				<Frame>-39.422615</Frame>
+				<Frame>-40.548977</Frame>
+				<Frame>-41.675339</Frame>
+				<Frame>-42.801701</Frame>
+				<Frame>-43.928062</Frame>
+				<Frame>-45.054424</Frame>
+				<Frame>-46.180786</Frame>
+				<Frame>-47.307148</Frame>
+				<Frame>-48.433510</Frame>
+				<Frame>-49.559872</Frame>
+				<Frame>-50.686234</Frame>
+				<Frame>-51.812595</Frame>
+				<Frame>-52.938957</Frame>
+				<Frame>-54.065319</Frame>
+				<Frame>-55.191681</Frame>
+				<Frame>-56.318043</Frame>
+				<Frame>-57.444405</Frame>
+				<Frame>-58.570766</Frame>
+				<Frame>-59.697128</Frame>
+				<Frame>-60.823490</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.949852</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.993523</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+				<Frame>-61.950882</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="12" Type="XTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>0.489689</Frame>
+				<Frame>0.979374</Frame>
+				<Frame>1.469068</Frame>
+				<Frame>1.958758</Frame>
+				<Frame>2.448444</Frame>
+				<Frame>2.938137</Frame>
+				<Frame>3.427827</Frame>
+				<Frame>3.917518</Frame>
+				<Frame>4.407211</Frame>
+				<Frame>4.896897</Frame>
+				<Frame>5.386591</Frame>
+				<Frame>5.876272</Frame>
+				<Frame>6.365965</Frame>
+				<Frame>6.855657</Frame>
+				<Frame>7.345351</Frame>
+				<Frame>7.835040</Frame>
+				<Frame>8.324726</Frame>
+				<Frame>8.814415</Frame>
+				<Frame>9.304101</Frame>
+				<Frame>9.793795</Frame>
+				<Frame>10.283484</Frame>
+				<Frame>10.773179</Frame>
+				<Frame>11.262869</Frame>
+				<Frame>11.752555</Frame>
+				<Frame>12.242240</Frame>
+				<Frame>12.731930</Frame>
+				<Frame>13.221624</Frame>
+				<Frame>13.711313</Frame>
+				<Frame>14.201003</Frame>
+				<Frame>14.690693</Frame>
+				<Frame>15.180383</Frame>
+				<Frame>15.670073</Frame>
+				<Frame>16.159763</Frame>
+				<Frame>16.649452</Frame>
+				<Frame>17.139141</Frame>
+				<Frame>17.628832</Frame>
+				<Frame>18.118523</Frame>
+				<Frame>18.608212</Frame>
+				<Frame>19.097900</Frame>
+				<Frame>19.587591</Frame>
+				<Frame>20.077286</Frame>
+				<Frame>20.566973</Frame>
+				<Frame>21.056665</Frame>
+				<Frame>21.546350</Frame>
+				<Frame>22.036043</Frame>
+				<Frame>22.525726</Frame>
+				<Frame>23.015421</Frame>
+				<Frame>23.505110</Frame>
+				<Frame>23.994799</Frame>
+				<Frame>24.484489</Frame>
+				<Frame>24.974178</Frame>
+				<Frame>25.463873</Frame>
+				<Frame>25.953558</Frame>
+				<Frame>26.443249</Frame>
+				<Frame>26.932940</Frame>
+				<Frame>26.919052</Frame>
+				<Frame>26.905169</Frame>
+				<Frame>26.891281</Frame>
+				<Frame>26.877401</Frame>
+				<Frame>26.863514</Frame>
+				<Frame>26.849627</Frame>
+				<Frame>26.835743</Frame>
+				<Frame>26.821861</Frame>
+				<Frame>26.807976</Frame>
+				<Frame>26.794088</Frame>
+				<Frame>26.780203</Frame>
+				<Frame>26.766317</Frame>
+				<Frame>26.752436</Frame>
+				<Frame>26.738550</Frame>
+				<Frame>26.574671</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+				<Frame>26.472488</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="12" Type="YTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>-0.008380</Frame>
+				<Frame>-0.016760</Frame>
+				<Frame>-0.025140</Frame>
+				<Frame>-0.033520</Frame>
+				<Frame>-0.041900</Frame>
+				<Frame>-0.050280</Frame>
+				<Frame>-0.058660</Frame>
+				<Frame>-0.067041</Frame>
+				<Frame>-0.075421</Frame>
+				<Frame>-0.083801</Frame>
+				<Frame>-0.092181</Frame>
+				<Frame>-0.100561</Frame>
+				<Frame>-0.108941</Frame>
+				<Frame>-0.117321</Frame>
+				<Frame>-0.125701</Frame>
+				<Frame>-0.134081</Frame>
+				<Frame>-0.136860</Frame>
+				<Frame>-0.139638</Frame>
+				<Frame>-0.142417</Frame>
+				<Frame>-0.145195</Frame>
+				<Frame>-0.147974</Frame>
+				<Frame>-0.150752</Frame>
+				<Frame>-0.153531</Frame>
+				<Frame>-0.156310</Frame>
+				<Frame>-0.159088</Frame>
+				<Frame>-0.161867</Frame>
+				<Frame>-0.164645</Frame>
+				<Frame>-0.167424</Frame>
+				<Frame>-0.170202</Frame>
+				<Frame>-0.172981</Frame>
+				<Frame>-0.175760</Frame>
+				<Frame>-0.178538</Frame>
+				<Frame>-0.186918</Frame>
+				<Frame>-0.195298</Frame>
+				<Frame>-0.203678</Frame>
+				<Frame>-0.212058</Frame>
+				<Frame>-0.220439</Frame>
+				<Frame>-0.228819</Frame>
+				<Frame>-0.237199</Frame>
+				<Frame>-0.245579</Frame>
+				<Frame>-0.253959</Frame>
+				<Frame>-0.262339</Frame>
+				<Frame>-0.270719</Frame>
+				<Frame>-0.279099</Frame>
+				<Frame>-0.287479</Frame>
+				<Frame>-0.295859</Frame>
+				<Frame>-0.304239</Frame>
+				<Frame>-0.312619</Frame>
+				<Frame>-0.315398</Frame>
+				<Frame>-0.318176</Frame>
+				<Frame>-0.320955</Frame>
+				<Frame>-0.323734</Frame>
+				<Frame>-0.326512</Frame>
+				<Frame>-0.329291</Frame>
+				<Frame>-0.332069</Frame>
+				<Frame>-0.332645</Frame>
+				<Frame>-0.333221</Frame>
+				<Frame>-0.333797</Frame>
+				<Frame>-0.334372</Frame>
+				<Frame>-0.334923</Frame>
+				<Frame>-0.335499</Frame>
+				<Frame>-0.336075</Frame>
+				<Frame>-0.336650</Frame>
+				<Frame>-0.337226</Frame>
+				<Frame>-0.339306</Frame>
+				<Frame>-0.341386</Frame>
+				<Frame>-0.341386</Frame>
+				<Frame>-0.343467</Frame>
+				<Frame>-0.345547</Frame>
+				<Frame>-0.591011</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.736625</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.753498</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+				<Frame>-0.750787</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="12" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>-1.152878</Frame>
+				<Frame>-2.305756</Frame>
+				<Frame>-3.458634</Frame>
+				<Frame>-4.611513</Frame>
+				<Frame>-5.764391</Frame>
+				<Frame>-6.917269</Frame>
+				<Frame>-8.070148</Frame>
+				<Frame>-9.223025</Frame>
+				<Frame>-10.375903</Frame>
+				<Frame>-11.528781</Frame>
+				<Frame>-12.681659</Frame>
+				<Frame>-13.834537</Frame>
+				<Frame>-14.987414</Frame>
+				<Frame>-16.140293</Frame>
+				<Frame>-17.293171</Frame>
+				<Frame>-18.446049</Frame>
+				<Frame>-19.598927</Frame>
+				<Frame>-20.751804</Frame>
+				<Frame>-21.904682</Frame>
+				<Frame>-23.057560</Frame>
+				<Frame>-24.210438</Frame>
+				<Frame>-25.363316</Frame>
+				<Frame>-26.516193</Frame>
+				<Frame>-27.669071</Frame>
+				<Frame>-28.821949</Frame>
+				<Frame>-29.974827</Frame>
+				<Frame>-31.127705</Frame>
+				<Frame>-32.280582</Frame>
+				<Frame>-33.433460</Frame>
+				<Frame>-34.586338</Frame>
+				<Frame>-35.739216</Frame>
+				<Frame>-36.892094</Frame>
+				<Frame>-38.044971</Frame>
+				<Frame>-39.197849</Frame>
+				<Frame>-40.350727</Frame>
+				<Frame>-41.503605</Frame>
+				<Frame>-42.656483</Frame>
+				<Frame>-43.809361</Frame>
+				<Frame>-44.962238</Frame>
+				<Frame>-46.115116</Frame>
+				<Frame>-47.267994</Frame>
+				<Frame>-48.420872</Frame>
+				<Frame>-49.573750</Frame>
+				<Frame>-50.726627</Frame>
+				<Frame>-51.879505</Frame>
+				<Frame>-53.032383</Frame>
+				<Frame>-54.185261</Frame>
+				<Frame>-55.338139</Frame>
+				<Frame>-56.491016</Frame>
+				<Frame>-57.643894</Frame>
+				<Frame>-58.796772</Frame>
+				<Frame>-59.949650</Frame>
+				<Frame>-61.102528</Frame>
+				<Frame>-62.255405</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.408283</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.427982</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+				<Frame>-63.433079</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="17" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>0.001370</Frame>
+				<Frame>0.002740</Frame>
+				<Frame>0.004111</Frame>
+				<Frame>0.005481</Frame>
+				<Frame>0.006851</Frame>
+				<Frame>0.008221</Frame>
+				<Frame>0.032722</Frame>
+				<Frame>0.073257</Frame>
+				<Frame>0.129581</Frame>
+				<Frame>0.201443</Frame>
+				<Frame>0.288597</Frame>
+				<Frame>0.390797</Frame>
+				<Frame>0.507797</Frame>
+				<Frame>0.639351</Frame>
+				<Frame>0.785213</Frame>
+				<Frame>0.945133</Frame>
+				<Frame>1.118866</Frame>
+				<Frame>1.306168</Frame>
+				<Frame>1.506786</Frame>
+				<Frame>1.720478</Frame>
+				<Frame>1.946999</Frame>
+				<Frame>2.186096</Frame>
+				<Frame>2.437531</Frame>
+				<Frame>2.701050</Frame>
+				<Frame>2.976406</Frame>
+				<Frame>3.263359</Frame>
+				<Frame>3.561657</Frame>
+				<Frame>3.871056</Frame>
+				<Frame>4.191307</Frame>
+				<Frame>4.522167</Frame>
+				<Frame>4.863384</Frame>
+				<Frame>5.214714</Frame>
+				<Frame>5.575912</Frame>
+				<Frame>5.946732</Frame>
+				<Frame>6.326923</Frame>
+				<Frame>6.716240</Frame>
+				<Frame>7.114437</Frame>
+				<Frame>7.521267</Frame>
+				<Frame>7.936485</Frame>
+				<Frame>8.359840</Frame>
+				<Frame>8.791092</Frame>
+				<Frame>9.229988</Frame>
+				<Frame>9.676285</Frame>
+				<Frame>10.129734</Frame>
+				<Frame>10.590092</Frame>
+				<Frame>11.057110</Frame>
+				<Frame>11.530537</Frame>
+				<Frame>12.010136</Frame>
+				<Frame>12.495651</Frame>
+				<Frame>12.986839</Frame>
+				<Frame>13.483456</Frame>
+				<Frame>13.985252</Frame>
+				<Frame>14.491982</Frame>
+				<Frame>15.003399</Frame>
+				<Frame>15.519253</Frame>
+				<Frame>16.039303</Frame>
+				<Frame>16.563297</Frame>
+				<Frame>17.090996</Frame>
+				<Frame>17.622143</Frame>
+				<Frame>18.156498</Frame>
+				<Frame>18.693813</Frame>
+				<Frame>19.233845</Frame>
+				<Frame>19.776340</Frame>
+				<Frame>20.321056</Frame>
+				<Frame>20.867746</Frame>
+				<Frame>21.416162</Frame>
+				<Frame>21.966057</Frame>
+				<Frame>22.517185</Frame>
+				<Frame>23.069302</Frame>
+				<Frame>23.622156</Frame>
+				<Frame>24.175505</Frame>
+				<Frame>24.729101</Frame>
+				<Frame>25.282696</Frame>
+				<Frame>25.836046</Frame>
+				<Frame>26.388901</Frame>
+				<Frame>26.941013</Frame>
+				<Frame>27.492147</Frame>
+				<Frame>28.042040</Frame>
+				<Frame>28.590456</Frame>
+				<Frame>29.137144</Frame>
+				<Frame>29.681860</Frame>
+				<Frame>30.224356</Frame>
+				<Frame>30.764385</Frame>
+				<Frame>31.301701</Frame>
+				<Frame>31.836056</Frame>
+				<Frame>32.367203</Frame>
+				<Frame>32.894905</Frame>
+				<Frame>33.418900</Frame>
+				<Frame>33.938946</Frame>
+				<Frame>34.454803</Frame>
+				<Frame>34.966217</Frame>
+				<Frame>35.472946</Frame>
+				<Frame>35.974743</Frame>
+				<Frame>36.471359</Frame>
+				<Frame>36.962547</Frame>
+				<Frame>37.448067</Frame>
+				<Frame>37.927666</Frame>
+				<Frame>38.401093</Frame>
+				<Frame>38.868107</Frame>
+				<Frame>39.328465</Frame>
+				<Frame>39.781914</Frame>
+				<Frame>40.228210</Frame>
+				<Frame>40.667107</Frame>
+				<Frame>41.098358</Frame>
+				<Frame>41.521713</Frame>
+				<Frame>41.936932</Frame>
+				<Frame>42.343761</Frame>
+				<Frame>42.741959</Frame>
+				<Frame>43.131279</Frame>
+				<Frame>43.511467</Frame>
+				<Frame>43.882286</Frame>
+				<Frame>44.243484</Frame>
+				<Frame>44.594814</Frame>
+				<Frame>44.936031</Frame>
+				<Frame>45.266891</Frame>
+				<Frame>45.587143</Frame>
+				<Frame>45.896542</Frame>
+				<Frame>46.194839</Frame>
+				<Frame>46.481792</Frame>
+				<Frame>46.757149</Frame>
+				<Frame>47.020668</Frame>
+				<Frame>47.272102</Frame>
+				<Frame>47.511200</Frame>
+				<Frame>47.737720</Frame>
+				<Frame>47.951412</Frame>
+				<Frame>48.152035</Frame>
+				<Frame>48.339333</Frame>
+				<Frame>48.513065</Frame>
+				<Frame>48.672989</Frame>
+				<Frame>48.818848</Frame>
+				<Frame>48.950401</Frame>
+				<Frame>49.067402</Frame>
+				<Frame>49.169601</Frame>
+				<Frame>49.256756</Frame>
+				<Frame>49.328617</Frame>
+				<Frame>49.384941</Frame>
+				<Frame>49.425476</Frame>
+				<Frame>49.449978</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+				<Frame>49.458199</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="42" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.031766" W="0.999495"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.063499" W="0.997982"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.095169" W="0.995461"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.126742" W="0.991936"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.158187" W="0.987409"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.189473" W="0.981886"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.220568" W="0.975372"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.251440" W="0.967873"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.282058" W="0.959397"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.312391" W="0.949954"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.342409" W="0.939551"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.372082" W="0.928200"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.401379" W="0.915912"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.430271" W="0.902700"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.458729" W="0.888576"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.486723" W="0.873556"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.514227" W="0.857654"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.541211" W="0.840887"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.567649" W="0.823271"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.593514" W="0.804823"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.618781" W="0.785564"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.643422" W="0.765512"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.667414" W="0.744687"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.690733" W="0.723110"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.713354" W="0.700804"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.735256" W="0.677790"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.756415" W="0.654092"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.776811" W="0.629734"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.796423" W="0.604740"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.815231" W="0.579136"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.833216" W="0.552948"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.850360" W="0.526201"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.866646" W="0.498923"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.882058" W="0.471142"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.896579" W="0.442885"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.910195" W="0.414182"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.922892" W="0.385060"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.934658" W="0.355549"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.945480" W="0.325680"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.955349" W="0.295482"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.964253" W="0.264985"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.972184" W="0.234222"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.979133" W="0.203221"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.985094" W="0.172016"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.990061" W="0.140637"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.994029" W="0.109117"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.996994" W="0.077486"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.998952" W="0.045776"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.999902" W="-0.014021"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999841" W="-0.017841"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.998765" W="-0.049686"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.996675" W="-0.081479"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.993574" W="-0.113190"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.989463" W="-0.144787"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.984348" W="-0.176236"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.978234" W="-0.207506"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.971127" W="-0.238566"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.963033" W="-0.269383"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.953963" W="-0.299927"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.943923" W="-0.330166"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.932925" W="-0.360071"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.920981" W="-0.389609"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.908101" W="-0.418752"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.894299" W="-0.447470"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.879589" W="-0.475734"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.863987" W="-0.503515"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.847507" W="-0.530784"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.830167" W="-0.557515"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.811984" W="-0.583680"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.792977" W="-0.609252"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.773164" W="-0.634206"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.752567" W="-0.658516"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.731206" W="-0.682157"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.709102" W="-0.705106"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.686279" W="-0.727339"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.662759" W="-0.748833"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.638566" W="-0.769567"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.613724" W="-0.789520"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.588260" W="-0.808672"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.562199" W="-0.827002"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.535566" W="-0.844493"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.508390" W="-0.861127"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.480698" W="-0.876886"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.452518" W="-0.891755"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.423878" W="-0.905719"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.394808" W="-0.918764"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.365338" W="-0.930875"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.335496" W="-0.942042"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.305314" W="-0.952252"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.274822" W="-0.961495"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.244051" W="-0.969763"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.213032" W="-0.977045"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.181796" W="-0.983336"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.150377" W="-0.988629"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.118804" W="-0.992918"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.087111" W="-0.996199"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.055330" W="-0.998468"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.023492" W="0.999724"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.008391" W="-0.999965"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.040265" W="-0.999189"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.072099" W="-0.997397"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.103859" W="-0.994592"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.135513" W="-0.990775"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.167030" W="-0.985952"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.198377" W="-0.980126"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.229522" W="-0.973303"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.260434" W="-0.965492"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.291082" W="-0.956698"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.321433" W="-0.946932"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.351458" W="-0.936204"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.381125" W="-0.924524"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.410405" W="-0.911904"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.439267" W="-0.898356"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.467683" W="-0.883896"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.495624" W="-0.868537"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.523061" W="-0.852295"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.549966" W="-0.835187"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.576312" W="-0.817230"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.602072" W="-0.798442"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.627220" W="-0.778842"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.651731" W="-0.758451"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.675579" W="-0.737288"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.698740" W="-0.715376"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.721191" W="-0.692737"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.742908" W="-0.669393"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.763871" W="-0.645370"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.784057" W="-0.620690"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.803446" W="-0.595379"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.822018" W="-0.569462"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.839754" W="-0.542967"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.856637" W="-0.515920"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.872649" W="-0.488349"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.887774" W="-0.460280"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.901996" W="-0.431745"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.915302" W="-0.402770"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.927677" W="-0.373385"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.939108" W="-0.343622"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.949586" W="-0.313508"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.959098" W="-0.283077"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.967635" W="-0.252357"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.975188" W="-0.221381"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.981750" W="-0.190180"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.987314" W="-0.158785"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.991874" W="-0.127229"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.995426" W="-0.095544"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.997966" W="-0.063761"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.999491" W="-0.031914"/>
+				<Frame X="0.000000" Y="0.000000" Z="-1.000000" W="-0.000084"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.999496" W="0.031745"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.997979" W="0.063543"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.995451" W="0.095276"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.991914" W="0.126913"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.987372" W="0.158421"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.981829" W="0.189768"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.975292" W="0.220923"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.967765" W="0.251854"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.959259" W="0.282530"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.949780" W="0.312920"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.939338" W="0.342993"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.927945" W="0.372718"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.915611" W="0.402065"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.902350" W="0.431005"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.888174" W="0.459508"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.873098" W="0.487546"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.857137" W="0.515089"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.840308" W="0.542110"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.822627" W="0.568582"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.804112" W="0.594478"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.784782" W="0.619772"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.764658" W="0.644437"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.743758" W="0.668449"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.722105" W="0.691784"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.699719" W="0.714418"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.676625" W="0.736328"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.652845" W="0.757491"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.628404" W="0.777887"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.603325" W="0.797495"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.577636" W="0.816295"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.551361" W="0.834267"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.524527" W="0.851394"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.497161" W="0.867658"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.469292" W="0.883043"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.440947" W="0.897533"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.412156" W="0.911113"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.382946" W="0.923770"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.353349" W="0.935491"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.323394" W="0.946264"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.293110" W="0.956078"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.262530" W="0.964924"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.231684" W="0.972791"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.200603" W="0.979672"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.169319" W="0.985561"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.137863" W="0.990451"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.106267" W="0.994337"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.074564" W="0.997216"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.042785" W="0.999084"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.011084" W="0.999938"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.020628" W="0.999787"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.052319" W="0.998630"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.083957" W="0.996469"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.115511" W="0.993306"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.146949" W="0.989144"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.178240" W="0.983987"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.209350" W="0.977840"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.240251" W="0.970711"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.270910" W="0.962605"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.301296" W="0.953530"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.331379" W="0.943497"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.361129" W="0.932516"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.390516" W="0.920596"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.419510" W="0.907750"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.448082" W="0.893992"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.476204" W="0.879335"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.503847" W="0.863793"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.530983" W="0.847382"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.557585" W="0.830120"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.583626" W="0.812022"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.609081" W="0.793108"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.633922" W="0.773397"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.658127" W="0.752907"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.681669" W="0.731661"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.704526" W="0.709678"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.726674" W="0.686982"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.748092" W="0.663595"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.768757" W="0.639541"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.788650" W="0.614843"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.807749" W="0.589527"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.826035" W="0.563619"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.843491" W="0.537143"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.860099" W="0.510127"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.875842" W="0.482599"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.890704" W="0.454584"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.904670" W="0.426113"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.917726" W="0.397213"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.929860" W="0.367914"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.941058" W="0.338245"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.951310" W="0.308236"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.960606" W="0.277916"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.968935" W="0.247317"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.976290" W="0.216470"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.982663" W="0.185405"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.988047" W="0.154153"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.992438" W="0.122746"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.995831" W="0.091216"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.998223" W="-0.059594"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999608" W="0.028023"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999994" W="-0.003576"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999381" W="-0.035171"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.997771" W="-0.066731"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.995164" W="-0.098225"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.991564" W="-0.129621"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.986973" W="-0.160887"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.981397" W="-0.191992"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.974840" W="-0.222906"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.967310" W="-0.253597"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.958814" W="-0.284034"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.949361" W="-0.314189"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.938959" W="0.344029"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="43" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.031766" W="0.999495"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.063499" W="0.997982"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.095169" W="0.995461"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.126742" W="0.991936"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.158187" W="0.987409"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.189473" W="0.981886"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.220568" W="0.975372"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.251440" W="0.967873"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.282058" W="0.959397"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.312391" W="0.949954"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.342409" W="0.939551"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.372082" W="0.928200"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.401379" W="0.915912"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.430271" W="0.902700"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.458729" W="0.888576"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.486723" W="0.873556"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.514227" W="0.857654"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.541211" W="0.840887"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.567649" W="0.823271"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.593514" W="0.804823"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.618781" W="0.785564"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.643422" W="0.765512"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.667414" W="0.744687"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.690733" W="0.723110"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.713354" W="0.700804"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.735256" W="0.677790"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.756415" W="0.654092"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.776811" W="0.629734"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.796423" W="0.604740"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.815231" W="0.579136"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.833216" W="0.552948"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.850360" W="0.526201"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.866646" W="0.498923"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.882058" W="0.471142"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.896579" W="0.442885"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.910195" W="0.414182"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.922892" W="0.385060"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.934658" W="0.355549"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.945480" W="0.325680"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.955349" W="0.295482"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.964253" W="0.264985"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.972184" W="0.234222"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.979133" W="0.203221"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.985094" W="0.172016"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.990061" W="0.140637"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.994029" W="0.109117"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.996994" W="0.077486"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.998952" W="0.045776"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.999902" W="-0.014021"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999841" W="-0.017841"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.998765" W="-0.049686"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.996675" W="-0.081479"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.993574" W="-0.113190"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.989463" W="-0.144787"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.984348" W="-0.176236"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.978234" W="-0.207506"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.971127" W="-0.238566"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.963033" W="-0.269383"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.953963" W="-0.299927"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.943923" W="-0.330166"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.932925" W="-0.360071"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.920981" W="-0.389609"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.908101" W="-0.418752"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.894299" W="-0.447470"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.879589" W="-0.475734"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.863987" W="-0.503515"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.847507" W="-0.530784"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.830167" W="-0.557515"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.811984" W="-0.583680"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.792977" W="-0.609252"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.773164" W="-0.634206"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.752567" W="-0.658516"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.731206" W="-0.682157"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.709102" W="-0.705106"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.686279" W="-0.727339"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.662759" W="-0.748833"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.638566" W="-0.769567"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.613724" W="-0.789520"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.588260" W="-0.808672"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.562199" W="-0.827002"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.535566" W="-0.844493"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.508390" W="-0.861127"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.480698" W="-0.876886"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.452518" W="-0.891755"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.423878" W="-0.905719"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.394808" W="-0.918764"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.365338" W="-0.930875"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.335496" W="-0.942042"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.305314" W="-0.952252"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.274822" W="-0.961495"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.244051" W="-0.969763"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.213032" W="-0.977045"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.181796" W="-0.983336"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.150377" W="-0.988629"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.118804" W="-0.992918"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.087111" W="-0.996199"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.055330" W="-0.998468"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.023492" W="0.999724"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.008391" W="-0.999965"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.040265" W="-0.999189"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.072099" W="-0.997397"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.103859" W="-0.994592"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.135513" W="-0.990775"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.167030" W="-0.985952"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.198377" W="-0.980126"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.229522" W="-0.973303"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.260434" W="-0.965492"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.291082" W="-0.956698"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.321433" W="-0.946932"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.351458" W="-0.936204"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.381125" W="-0.924524"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.410405" W="-0.911904"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.439267" W="-0.898356"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.467683" W="-0.883896"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.495624" W="-0.868537"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.523061" W="-0.852295"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.549966" W="-0.835187"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.576312" W="-0.817230"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.602072" W="-0.798442"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.627220" W="-0.778842"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.651731" W="-0.758451"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.675579" W="-0.737288"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.698740" W="-0.715376"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.721191" W="-0.692737"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.742908" W="-0.669393"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.763871" W="-0.645370"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.784057" W="-0.620690"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.803446" W="-0.595379"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.822018" W="-0.569462"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.839754" W="-0.542967"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.856637" W="-0.515920"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.872649" W="-0.488349"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.887774" W="-0.460280"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.901996" W="-0.431745"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.915302" W="-0.402770"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.927677" W="-0.373385"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.939108" W="-0.343622"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.949586" W="-0.313508"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.959098" W="-0.283077"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.967635" W="-0.252357"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.975188" W="-0.221381"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.981750" W="-0.190180"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.987314" W="-0.158785"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.991874" W="-0.127229"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.995426" W="-0.095544"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.997966" W="-0.063761"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.999491" W="-0.031914"/>
+				<Frame X="0.000000" Y="0.000000" Z="-1.000000" W="-0.000084"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.999496" W="0.031745"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.997979" W="0.063543"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.995451" W="0.095276"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.991914" W="0.126913"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.987372" W="0.158421"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.981829" W="0.189768"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.975292" W="0.220923"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.967765" W="0.251854"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.959259" W="0.282530"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.949780" W="0.312920"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.939338" W="0.342993"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.927945" W="0.372718"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.915611" W="0.402065"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.902350" W="0.431005"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.888174" W="0.459508"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.873098" W="0.487546"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.857137" W="0.515089"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.840308" W="0.542110"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.822627" W="0.568582"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.804112" W="0.594478"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.784782" W="0.619772"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.764658" W="0.644437"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.743758" W="0.668449"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.722105" W="0.691784"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.699719" W="0.714418"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.676625" W="0.736328"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.652845" W="0.757491"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.628404" W="0.777887"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.603325" W="0.797495"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.577636" W="0.816295"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.551361" W="0.834267"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.524527" W="0.851394"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.497161" W="0.867658"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.469292" W="0.883043"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.440947" W="0.897533"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.412156" W="0.911113"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.382946" W="0.923770"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.353349" W="0.935491"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.323394" W="0.946264"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.293110" W="0.956078"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.262530" W="0.964924"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.231684" W="0.972791"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.200603" W="0.979672"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.169319" W="0.985561"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.137863" W="0.990451"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.106267" W="0.994337"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.074564" W="0.997216"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.042785" W="0.999084"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.011084" W="0.999938"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.020628" W="0.999787"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.052319" W="0.998630"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.083957" W="0.996469"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.115511" W="0.993306"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.146949" W="0.989144"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.178240" W="0.983987"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.209350" W="0.977840"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.240251" W="0.970711"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.270910" W="0.962605"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.301296" W="0.953530"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.331379" W="0.943497"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.361129" W="0.932516"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.390516" W="0.920596"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.419510" W="0.907750"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.448082" W="0.893992"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.476204" W="0.879335"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.503847" W="0.863793"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.530983" W="0.847382"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.557585" W="0.830120"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.583626" W="0.812022"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.609081" W="0.793108"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.633922" W="0.773397"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.658127" W="0.752907"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.681669" W="0.731661"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.704526" W="0.709678"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.726674" W="0.686982"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.748092" W="0.663595"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.768757" W="0.639541"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.788650" W="0.614843"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.807749" W="0.589527"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.826035" W="0.563619"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.843491" W="0.537143"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.860099" W="0.510127"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.875842" W="0.482599"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.890704" W="0.454584"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.904670" W="0.426113"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.917726" W="0.397213"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.929860" W="0.367914"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.941058" W="0.338245"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.951310" W="0.308236"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.960606" W="0.277916"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.968935" W="0.247317"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.976290" W="0.216470"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.982663" W="0.185405"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.988047" W="0.154153"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.992438" W="0.122746"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.995831" W="0.091216"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.998223" W="-0.059594"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999608" W="0.028023"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999994" W="-0.003576"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999381" W="-0.035171"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.997771" W="-0.066731"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.995164" W="-0.098225"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.991564" W="-0.129621"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.986973" W="-0.160887"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.981397" W="-0.191992"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.974840" W="-0.222906"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.967310" W="-0.253597"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.958814" W="-0.284034"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.949361" W="-0.314189"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.938959" W="0.344029"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="44" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.031766" W="0.999495"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.063499" W="0.997982"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.095169" W="0.995461"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.126742" W="0.991936"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.158187" W="0.987409"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.189473" W="0.981886"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.220568" W="0.975372"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.251440" W="0.967873"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.282058" W="0.959397"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.312391" W="0.949954"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.342409" W="0.939551"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.372082" W="0.928200"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.401379" W="0.915912"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.430271" W="0.902700"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.458729" W="0.888576"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.486723" W="0.873556"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.514227" W="0.857654"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.541211" W="0.840887"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.567649" W="0.823271"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.593514" W="0.804823"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.618781" W="0.785564"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.643422" W="0.765512"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.667414" W="0.744687"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.690733" W="0.723110"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.713354" W="0.700804"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.735256" W="0.677790"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.756415" W="0.654092"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.776811" W="0.629734"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.796423" W="0.604740"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.815231" W="0.579136"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.833216" W="0.552948"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.850360" W="0.526201"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.866646" W="0.498923"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.882058" W="0.471142"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.896579" W="0.442885"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.910195" W="0.414182"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.922892" W="0.385060"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.934658" W="0.355549"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.945480" W="0.325680"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.955349" W="0.295482"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.964253" W="0.264985"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.972184" W="0.234222"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.979133" W="0.203221"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.985094" W="0.172016"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.990061" W="0.140637"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.994029" W="0.109117"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.996994" W="0.077486"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.998952" W="0.045776"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.999902" W="-0.014021"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999841" W="-0.017841"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.998765" W="-0.049686"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.996675" W="-0.081479"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.993574" W="-0.113190"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.989463" W="-0.144787"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.984348" W="-0.176236"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.978234" W="-0.207506"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.971127" W="-0.238566"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.963033" W="-0.269383"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.953963" W="-0.299927"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.943923" W="-0.330166"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.932925" W="-0.360071"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.920981" W="-0.389609"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.908101" W="-0.418752"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.894299" W="-0.447470"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.879589" W="-0.475734"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.863987" W="-0.503515"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.847507" W="-0.530784"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.830167" W="-0.557515"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.811984" W="-0.583680"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.792977" W="-0.609252"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.773164" W="-0.634206"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.752567" W="-0.658516"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.731206" W="-0.682157"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.709102" W="-0.705106"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.686279" W="-0.727339"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.662759" W="-0.748833"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.638566" W="-0.769567"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.613724" W="-0.789520"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.588260" W="-0.808672"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.562199" W="-0.827002"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.535566" W="-0.844493"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.508390" W="-0.861127"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.480698" W="-0.876886"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.452518" W="-0.891755"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.423878" W="-0.905719"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.394808" W="-0.918764"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.365338" W="-0.930875"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.335496" W="-0.942042"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.305314" W="-0.952252"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.274822" W="-0.961495"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.244051" W="-0.969763"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.213032" W="-0.977045"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.181796" W="-0.983336"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.150377" W="-0.988629"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.118804" W="-0.992918"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.087111" W="-0.996199"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.055330" W="-0.998468"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.023492" W="0.999724"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.008391" W="-0.999965"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.040265" W="-0.999189"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.072099" W="-0.997397"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.103859" W="-0.994592"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.135513" W="-0.990775"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.167030" W="-0.985952"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.198377" W="-0.980126"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.229522" W="-0.973303"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.260434" W="-0.965492"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.291082" W="-0.956698"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.321433" W="-0.946932"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.351458" W="-0.936204"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.381125" W="-0.924524"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.410405" W="-0.911904"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.439267" W="-0.898356"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.467683" W="-0.883896"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.495624" W="-0.868537"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.523061" W="-0.852295"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.549966" W="-0.835187"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.576312" W="-0.817230"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.602072" W="-0.798442"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.627220" W="-0.778842"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.651731" W="-0.758451"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.675579" W="-0.737288"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.698740" W="-0.715376"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.721191" W="-0.692737"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.742908" W="-0.669393"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.763871" W="-0.645370"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.784057" W="-0.620690"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.803446" W="-0.595379"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.822018" W="-0.569462"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.839754" W="-0.542967"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.856637" W="-0.515920"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.872649" W="-0.488349"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.887774" W="-0.460280"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.901996" W="-0.431745"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.915302" W="-0.402770"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.927677" W="-0.373385"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.939108" W="-0.343622"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.949586" W="-0.313508"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.959098" W="-0.283077"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.967635" W="-0.252357"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.975188" W="-0.221381"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.981750" W="-0.190180"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.987314" W="-0.158785"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.991874" W="-0.127229"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.995426" W="-0.095544"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.997966" W="-0.063761"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.999491" W="-0.031914"/>
+				<Frame X="0.000000" Y="0.000000" Z="-1.000000" W="-0.000084"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.999496" W="0.031745"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.997979" W="0.063543"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.995451" W="0.095276"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.991914" W="0.126913"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.987372" W="0.158421"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.981829" W="0.189768"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.975292" W="0.220923"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.967765" W="0.251854"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.959259" W="0.282530"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.949780" W="0.312920"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.939338" W="0.342993"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.927945" W="0.372718"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.915611" W="0.402065"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.902350" W="0.431005"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.888174" W="0.459508"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.873098" W="0.487546"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.857137" W="0.515089"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.840308" W="0.542110"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.822627" W="0.568582"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.804112" W="0.594478"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.784782" W="0.619772"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.764658" W="0.644437"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.743758" W="0.668449"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.722105" W="0.691784"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.699719" W="0.714418"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.676625" W="0.736328"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.652845" W="0.757491"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.628404" W="0.777887"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.603325" W="0.797495"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.577636" W="0.816295"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.551361" W="0.834267"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.524527" W="0.851394"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.497161" W="0.867658"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.469292" W="0.883043"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.440947" W="0.897533"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.412156" W="0.911113"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.382946" W="0.923770"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.353349" W="0.935491"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.323394" W="0.946264"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.293110" W="0.956078"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.262530" W="0.964924"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.231684" W="0.972791"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.200603" W="0.979672"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.169319" W="0.985561"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.137863" W="0.990451"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.106267" W="0.994337"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.074564" W="0.997216"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.042785" W="0.999084"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.011084" W="0.999938"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.020628" W="0.999787"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.052319" W="0.998630"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.083957" W="0.996469"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.115511" W="0.993306"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.146949" W="0.989144"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.178240" W="0.983987"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.209350" W="0.977840"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.240251" W="0.970711"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.270910" W="0.962605"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.301296" W="0.953530"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.331379" W="0.943497"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.361129" W="0.932516"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.390516" W="0.920596"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.419510" W="0.907750"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.448082" W="0.893992"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.476204" W="0.879335"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.503847" W="0.863793"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.530983" W="0.847382"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.557585" W="0.830120"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.583626" W="0.812022"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.609081" W="0.793108"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.633922" W="0.773397"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.658127" W="0.752907"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.681669" W="0.731661"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.704526" W="0.709678"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.726674" W="0.686982"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.748092" W="0.663595"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.768757" W="0.639541"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.788650" W="0.614843"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.807749" W="0.589527"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.826035" W="0.563619"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.843491" W="0.537143"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.860099" W="0.510127"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.875842" W="0.482599"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.890704" W="0.454584"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.904670" W="0.426113"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.917726" W="0.397213"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.929860" W="0.367914"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.941058" W="0.338245"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.951310" W="0.308236"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.960606" W="0.277916"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.968935" W="0.247317"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.976290" W="0.216470"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.982663" W="0.185405"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.988047" W="0.154153"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.992438" W="0.122746"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.995831" W="0.091216"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.998223" W="-0.059594"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999608" W="0.028023"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999994" W="-0.003576"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.999381" W="-0.035171"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.997771" W="-0.066731"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.995164" W="-0.098225"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.991564" W="-0.129621"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.986973" W="-0.160887"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.981397" W="-0.191992"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.974840" W="-0.222906"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.967310" W="-0.253597"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.958814" W="-0.284034"/>
+				<Frame X="0.000000" Y="0.000000" Z="0.949361" W="-0.314189"/>
+				<Frame X="0.000000" Y="0.000000" Z="-0.938959" W="0.344029"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="45" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>-50.832390</Frame>
+				<Frame>-50.688553</Frame>
+				<Frame>-50.543110</Frame>
+				<Frame>-50.396030</Frame>
+				<Frame>-50.247292</Frame>
+				<Frame>-50.096870</Frame>
+				<Frame>-49.944736</Frame>
+				<Frame>-49.790863</Frame>
+				<Frame>-49.635220</Frame>
+				<Frame>-49.477779</Frame>
+				<Frame>-49.318512</Frame>
+				<Frame>-49.157391</Frame>
+				<Frame>-48.994377</Frame>
+				<Frame>-48.829441</Frame>
+				<Frame>-48.662548</Frame>
+				<Frame>-48.493668</Frame>
+				<Frame>-48.322762</Frame>
+				<Frame>-48.149796</Frame>
+				<Frame>-47.974728</Frame>
+				<Frame>-47.797523</Frame>
+				<Frame>-47.618141</Frame>
+				<Frame>-47.436539</Frame>
+				<Frame>-47.252674</Frame>
+				<Frame>-47.066509</Frame>
+				<Frame>-46.877991</Frame>
+				<Frame>-46.687077</Frame>
+				<Frame>-46.493717</Frame>
+				<Frame>-46.297867</Frame>
+				<Frame>-46.099468</Frame>
+				<Frame>-45.898468</Frame>
+				<Frame>-45.694820</Frame>
+				<Frame>-45.488457</Frame>
+				<Frame>-45.279327</Frame>
+				<Frame>-45.067368</Frame>
+				<Frame>-44.852512</Frame>
+				<Frame>-44.634701</Frame>
+				<Frame>-44.413860</Frame>
+				<Frame>-44.189922</Frame>
+				<Frame>-43.962814</Frame>
+				<Frame>-43.732460</Frame>
+				<Frame>-43.498779</Frame>
+				<Frame>-43.261692</Frame>
+				<Frame>-43.021111</Frame>
+				<Frame>-42.776947</Frame>
+				<Frame>-42.529106</Frame>
+				<Frame>-42.277493</Frame>
+				<Frame>-42.022007</Frame>
+				<Frame>-41.762539</Frame>
+				<Frame>-41.498985</Frame>
+				<Frame>-41.231224</Frame>
+				<Frame>-40.959137</Frame>
+				<Frame>-40.682598</Frame>
+				<Frame>-40.401478</Frame>
+				<Frame>-40.115635</Frame>
+				<Frame>-39.824921</Frame>
+				<Frame>-39.529186</Frame>
+				<Frame>-39.228268</Frame>
+				<Frame>-38.922001</Frame>
+				<Frame>-38.610199</Frame>
+				<Frame>-38.292683</Frame>
+				<Frame>-37.969246</Frame>
+				<Frame>-37.639687</Frame>
+				<Frame>-37.303776</Frame>
+				<Frame>-36.961281</Frame>
+				<Frame>-36.611950</Frame>
+				<Frame>-36.255524</Frame>
+				<Frame>-35.891720</Frame>
+				<Frame>-35.520237</Frame>
+				<Frame>-35.140755</Frame>
+				<Frame>-34.752937</Frame>
+				<Frame>-34.356422</Frame>
+				<Frame>-33.950809</Frame>
+				<Frame>-33.535694</Frame>
+				<Frame>-33.110630</Frame>
+				<Frame>-32.675125</Frame>
+				<Frame>-32.228661</Frame>
+				<Frame>-31.770689</Frame>
+				<Frame>-31.300600</Frame>
+				<Frame>-30.817734</Frame>
+				<Frame>-30.321390</Frame>
+				<Frame>-29.810791</Frame>
+				<Frame>-29.285103</Frame>
+				<Frame>-28.743406</Frame>
+				<Frame>-28.184706</Frame>
+				<Frame>-27.607910</Frame>
+				<Frame>-27.011820</Frame>
+				<Frame>-26.395128</Frame>
+				<Frame>-25.756399</Frame>
+				<Frame>-25.094053</Frame>
+				<Frame>-24.406387</Frame>
+				<Frame>-23.691504</Frame>
+				<Frame>-22.947365</Frame>
+				<Frame>-22.171787</Frame>
+				<Frame>-21.362442</Frame>
+				<Frame>-20.516912</Frame>
+				<Frame>-19.632790</Frame>
+				<Frame>-18.707813</Frame>
+				<Frame>-17.740147</Frame>
+				<Frame>-16.728767</Frame>
+				<Frame>-15.674086</Frame>
+				<Frame>-14.578776</Frame>
+				<Frame>-13.448839</Frame>
+				<Frame>-12.294663</Frame>
+				<Frame>-11.131686</Frame>
+				<Frame>-9.979998</Frame>
+				<Frame>-8.862387</Frame>
+				<Frame>-7.801012</Frame>
+				<Frame>-6.813854</Frame>
+				<Frame>-5.912395</Frame>
+				<Frame>-5.101254</Frame>
+				<Frame>-4.379396</Frame>
+				<Frame>-3.741991</Frame>
+				<Frame>-3.182166</Frame>
+				<Frame>-2.692299</Frame>
+				<Frame>-2.264838</Frame>
+				<Frame>-1.892729</Frame>
+				<Frame>-1.569616</Frame>
+				<Frame>-1.289880</Frame>
+				<Frame>-1.048614</Frame>
+				<Frame>-0.841554</Frame>
+				<Frame>-0.665009</Frame>
+				<Frame>-0.515779</Frame>
+				<Frame>-0.391089</Frame>
+				<Frame>-0.288525</Frame>
+				<Frame>-0.205982</Frame>
+				<Frame>-0.141618</Frame>
+				<Frame>-0.093816</Frame>
+				<Frame>-0.061149</Frame>
+				<Frame>-0.042357</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+				<Frame>-0.036319</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="49" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>-6.568127</Frame>
+				<Frame>-24.251549</Frame>
+				<Frame>-50.018822</Frame>
+				<Frame>-80.838501</Frame>
+				<Frame>-113.679140</Frame>
+				<Frame>-145.509310</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+				<Frame>-173.297550</Frame>
+			</ChannelScalar>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DHierarchy id="GUMARV_FX">
+		<Pivot Name="ROOTTRANSFORM" Parent="-1">
+			<Translation X="0.000000" Y="0.000000" Z="0.000000"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="1.000000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="1.000000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="1.000000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+		<Pivot Name="FXTRACKSRR" Parent="0">
+			<Translation X="-34.694599" Y="-26.140137" Z="0.000000"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="0.500000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="0.500000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="0.500000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+		<Pivot Name="FXTRACKSRF" Parent="0">
+			<Translation X="34.621243" Y="-26.140137" Z="0.000000"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="0.500000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="0.500000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="0.500000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+		<Pivot Name="FXTRACKSLR" Parent="0">
+			<Translation X="-34.694607" Y="26.947845" Z="0.000000"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="0.500000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="0.500000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="0.500000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+		<Pivot Name="FXTRACKSLF" Parent="0">
+			<Translation X="34.621243" Y="26.947861" Z="0.000000"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="0.500000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="0.500000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="0.500000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+		<Pivot Name="FXHULKFIRE" Parent="0">
+			<Translation X="0.067806" Y="-0.034934" Z="20.588177"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="0.500000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="0.500000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="0.500000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+	</W3DHierarchy>
+	
+	<W3DMesh id="GUMARV_FX.REQUIREDFOREXPORT" GeometryType="Normal">
+		<BoundingBox>
+			<Min X="-3.787103" Y="-3.103803" Z="2.819118"/>
+			<Max X="3.787103" Y="3.103803" Z="2.819119"/>
+		</BoundingBox>
+		<BoundingSphere Radius="4.896503">
+			<Center X="0.000000" Y="0.000000" Z="2.819118"/>
+		</BoundingSphere>
+		<Vertices>
+			<V X="-3.787103" Y="3.103803" Z="2.819118"/>
+			<V X="3.787103" Y="-3.103803" Z="2.819119"/>
+			<V X="3.787103" Y="3.103803" Z="2.819118"/>
+			<V X="-3.787103" Y="-3.103803" Z="2.819119"/>
+		</Vertices>
+		<Normals>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+		</Normals>
+		<Tangents>
+			<T X="0.000000" Y="1.000000" Z="0.000000"/>
+			<T X="0.000000" Y="1.000000" Z="0.000000"/>
+			<T X="0.000000" Y="1.000000" Z="0.000000"/>
+			<T X="0.000000" Y="1.000000" Z="0.000000"/>
+		</Tangents>
+		<Binormals>
+			<B X="1.000000" Y="0.000000" Z="0.000000"/>
+			<B X="1.000000" Y="0.000000" Z="0.000000"/>
+			<B X="1.000000" Y="0.000000" Z="0.000000"/>
+			<B X="1.000000" Y="0.000000" Z="0.000000"/>
+		</Binormals>
+		<VertexColors>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+		</VertexColors>
+		<TexCoords>
+			<T X="0.000000" Y="0.000000"/>
+			<T X="1.000000" Y="1.000000"/>
+			<T X="1.000000" Y="0.000000"/>
+			<T X="0.000000" Y="1.000000"/>
+		</TexCoords>
+		<Triangles>
+			<T>
+				<V>2</V>
+				<V>1</V>
+				<V>0</V>
+				<Nrm X="0.000000" Y="0.000000" Z="-1.000000"/>
+				<Dist>-2.819118</Dist>
+			</T>
+			<T>
+				<V>0</V>
+				<V>1</V>
+				<V>3</V>
+				<Nrm X="0.000000" Y="0.000000" Z="0.000000"/>
+				<Dist>-2.819118</Dist>
+			</T>
+		</Triangles>
+		<FXShader ShaderName="ObjectsGDI.fx">
+			<Constants>
+				<Texture Name="DiffuseTexture">
+					<Value>GUMamm</Value>
+				</Texture>
+				<Texture Name="NormalMap">
+					<Value>GUMamm_Nrm</Value>
+				</Texture>
+				<Texture Name="SpecMap">
+					<Value>GUMamm_SPM</Value>
+				</Texture>
+				<Texture Name="RecolorTexture">
+					<Value>HCToBeRemoved</Value>
+				</Texture>
+				<Float Name="EnvMult">
+					<Value>1.000000</Value>
+				</Float>
+				<Bool Name="AlphaTestEnable">
+					<Value>false</Value>
+				</Bool>
+			</Constants>
+		</FXShader>
+	</W3DMesh>
+	
+	<W3DContainer id="GUMARV_FX" Hierarchy="GUMARV_FX">
+		<SubObject SubObjectID="REQUIREDFOREXPORT" BoneIndex="0">
+			<RenderObject>
+				<Mesh>GUMARV_FX.REQUIREDFOREXPORT</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

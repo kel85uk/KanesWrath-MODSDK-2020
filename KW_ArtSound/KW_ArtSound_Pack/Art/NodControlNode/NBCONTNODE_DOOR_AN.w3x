@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<W3DAnimation id="NBCONTNODE_DOOR" Hierarchy="NBCONTNODE_DOOR" NumFrames="31" FrameRate="30">
+		<Channels>
+			<ChannelScalar Pivot="1" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>-0.062353</Frame>
+				<Frame>-0.245185</Frame>
+				<Frame>-0.542156</Frame>
+				<Frame>-0.946923</Frame>
+				<Frame>-1.453145</Frame>
+				<Frame>-2.054484</Frame>
+				<Frame>-2.744596</Frame>
+				<Frame>-3.517143</Frame>
+				<Frame>-4.365780</Frame>
+				<Frame>-5.284168</Frame>
+				<Frame>-6.265966</Frame>
+				<Frame>-7.304833</Frame>
+				<Frame>-8.394429</Frame>
+				<Frame>-9.528412</Frame>
+				<Frame>-10.700440</Frame>
+				<Frame>-11.904176</Frame>
+				<Frame>-13.133271</Frame>
+				<Frame>-14.381392</Frame>
+				<Frame>-15.642195</Frame>
+				<Frame>-16.909338</Frame>
+				<Frame>-18.176481</Frame>
+				<Frame>-19.437284</Frame>
+				<Frame>-20.685404</Frame>
+				<Frame>-21.914501</Frame>
+				<Frame>-23.118237</Frame>
+				<Frame>-24.290264</Frame>
+				<Frame>-25.424246</Frame>
+				<Frame>-26.513842</Frame>
+				<Frame>-27.552710</Frame>
+				<Frame>-28.534508</Frame>
+			</ChannelScalar>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>

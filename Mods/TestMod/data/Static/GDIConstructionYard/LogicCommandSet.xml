@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <LogicCommandSet
+        id="GDIConstructionYardCommandSet">
+        <Cmd>Command_ConstructGDIPowerPlant</Cmd>
+        <Cmd>Command_ConstructGDIRefinery</Cmd>
+        <Cmd>Command_ConstructGDIBarracks</Cmd>
+        <Cmd>Command_ConstructGDIWarfactory</Cmd>
+        <Cmd>Command_ConstructGDICommandPost</Cmd>
+        <Cmd>Command_ConstructGDIAirTower</Cmd>
+        <Cmd>Command_ConstructGDIMedicalCenter</Cmd>
+        <Cmd>Command_ConstructGDIArmory</Cmd>
+        <Cmd>Command_ConstructGDISpaceCommandUplink</Cmd>
+        <Cmd>Command_ConstructGDIReclamatorHub</Cmd>
+        <Cmd>Command_ConstructGDIWatchTower</Cmd>
+        <Cmd>Command_ConstructGDIGolumCannon</Cmd>
+        <Cmd>Command_ConstructGDIAABattery</Cmd>
+        <Cmd>Command_ConstructGDITiberiumSilo</Cmd>
+        <Cmd>Command_ConstructGDITerraformingStation</Cmd>
+        <Cmd>Command_ConstructGDIIonCannonControl</Cmd>
+        <Cmd>Command_ConstructGDICrane</Cmd>
+        <Cmd>Command_ConstructGDIAirSupport</Cmd>
+        <Cmd>Command_ConstructGDISurveyor</Cmd>
+        <Cmd>Command_ConstructCustomTiberiumSpike</Cmd>
+        <Cmd>Command_PackGDIMCV</Cmd>
+    </LogicCommandSet>
+</AssetDeclaration>

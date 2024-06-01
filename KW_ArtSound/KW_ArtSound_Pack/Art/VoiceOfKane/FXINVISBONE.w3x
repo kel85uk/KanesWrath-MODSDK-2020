@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DHierarchy id="FXINVISBONE">
+		<Pivot Name="ROOTTRANSFORM" Parent="-1">
+			<Translation X="0.000000" Y="0.000000" Z="0.000000"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="1.000000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="1.000000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="1.000000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+		<Pivot Name="MESH" Parent="0">
+			<Translation X="0.000000" Y="0.000000" Z="0.000000"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="1.000000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="1.000000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="1.000000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+		<Pivot Name="INVISBONE01" Parent="0">
+			<Translation X="0.000000" Y="0.000000" Z="0.016484"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="1.000000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="1.000000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="1.000000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+	</W3DHierarchy>
+	
+	<W3DMesh id="FXINVISBONE.MESH" GeometryType="Normal">
+		<BoundingBox>
+			<Min X="-0.500000" Y="-0.500000" Z="-0.000594"/>
+			<Max X="0.500000" Y="0.500000" Z="-0.000594"/>
+		</BoundingBox>
+		<BoundingSphere Radius="0.707107">
+			<Center X="0.000000" Y="0.000000" Z="-0.000594"/>
+		</BoundingSphere>
+		<Vertices>
+			<V X="-0.500000" Y="-0.500000" Z="-0.000594"/>
+			<V X="0.500000" Y="0.500000" Z="-0.000594"/>
+			<V X="-0.500000" Y="0.500000" Z="-0.000594"/>
+			<V X="0.500000" Y="0.500000" Z="-0.000594"/>
+			<V X="-0.500000" Y="-0.500000" Z="-0.000594"/>
+			<V X="0.500000" Y="-0.500000" Z="-0.000594"/>
+		</Vertices>
+		<Normals>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+			<N X="0.000000" Y="0.000000" Z="-1.000000"/>
+		</Normals>
+		<VertexColors>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+			<C R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+		</VertexColors>
+		<TexCoords>
+			<T X="1.000000" Y="0.000000"/>
+			<T X="1.000000" Y="1.000000"/>
+			<T X="1.000000" Y="1.000000"/>
+			<T X="0.000000" Y="1.000000"/>
+			<T X="0.000000" Y="0.000000"/>
+			<T X="0.000000" Y="0.000000"/>
+		</TexCoords>
+		<Triangles>
+			<T>
+				<V>2</V>
+				<V>3</V>
+				<V>4</V>
+				<Nrm X="0.000000" Y="0.000000" Z="-1.000000"/>
+				<Dist>0.000594</Dist>
+			</T>
+			<T>
+				<V>5</V>
+				<V>0</V>
+				<V>1</V>
+				<Nrm X="0.000000" Y="0.000000" Z="-1.000000"/>
+				<Dist>0.000594</Dist>
+			</T>
+		</Triangles>
+		<FXShader ShaderName="BasicW3D.fx">
+			<Constants>
+				<Float Name="ColorAmbient">
+					<Value>1.000000</Value>
+					<Value>1.000000</Value>
+					<Value>1.000000</Value>
+					<Value>0.000000</Value>
+				</Float>
+				<Float Name="ColorDiffuse">
+					<Value>1.000000</Value>
+					<Value>1.000000</Value>
+					<Value>1.000000</Value>
+					<Value>0.000000</Value>
+				</Float>
+				<Float Name="ColorSpecular">
+					<Value>0.000000</Value>
+					<Value>0.000000</Value>
+					<Value>0.000000</Value>
+					<Value>0.000000</Value>
+				</Float>
+				<Float Name="Shininess">
+					<Value>1.000000</Value>
+				</Float>
+				<Float Name="ColorEmissive">
+					<Value>0.000000</Value>
+					<Value>0.000000</Value>
+					<Value>0.000000</Value>
+					<Value>0.000000</Value>
+				</Float>
+				<Texture Name="Texture_0">
+					<Value>FXAlienOverlay</Value>
+				</Texture>
+				<Bool Name="DepthWriteEnable">
+					<Value>true</Value>
+				</Bool>
+				<Bool Name="AlphaTestEnable">
+					<Value>false</Value>
+				</Bool>
+				<Bool Name="CullingEnable">
+					<Value>true</Value>
+				</Bool>
+				<Int Name="BlendMode">
+					<Value>2</Value>
+				</Int>
+			</Constants>
+		</FXShader>
+	</W3DMesh>
+	
+	<W3DContainer id="FXINVISBONE" Hierarchy="FXINVISBONE">
+		<SubObject SubObjectID="MESH" BoneIndex="1">
+			<RenderObject>
+				<Mesh>FXINVISBONE.MESH</Mesh>
+			</RenderObject>
+		</SubObject>
+	</W3DContainer>
+</AssetDeclaration>

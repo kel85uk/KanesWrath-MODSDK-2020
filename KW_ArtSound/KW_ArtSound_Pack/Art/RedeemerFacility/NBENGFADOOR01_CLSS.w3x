@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<W3DAnimation id="NBENGFADOOR01_CLSS" Hierarchy="NBENGFADOOR_SKL" NumFrames="1" FrameRate="30">
+		<Channels>
+			<ChannelScalar Pivot="17" Type="ZTranslation" FirstFrame="0">
+				<Frame>-18.361565</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="42" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="0.000000" Z="0.755466" W="0.655188"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="43" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="0.000000" Z="0.755466" W="0.655188"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="44" Type="Orientation" FirstFrame="0">
+				<Frame X="0.000000" Y="0.000000" Z="0.755466" W="0.655188"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="45" Type="ZTranslation" FirstFrame="0">
+				<Frame>-9.102736</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="49" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000092</Frame>
+			</ChannelScalar>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>

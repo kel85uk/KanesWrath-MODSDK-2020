@@ -1,0 +1,150 @@
+Texture:EXTireTrack2
+21e727da.ce66521f.asset
+Texture:NUReckoner
+21e727da.5a440ad9.asset
+Texture:NUReckoner_D
+21e727da.6dc76c38.asset
+Texture:EXTnkTrack
+21e727da.ed17c8ff.asset
+Texture:FXFireScroll
+21e727da.25d66231.asset
+Texture:FXSphereNRM
+21e727da.8c8826e2.asset
+Texture:FXFractal01NRM
+21e727da.7fc3a305.asset
+Texture:FXSmoke01
+21e727da.8d9b3f98.asset
+Texture:FXSmoke2x2_02
+21e727da.7fb67297.asset
+Texture:FX_Debris01
+21e727da.7aff59e0.asset
+Texture:FXSteam
+21e727da.8937063.asset
+Texture:FXWaterFall
+21e727da.efb6f257.asset
+Texture:FXLenzFlare04
+21e727da.1dccb615.asset
+Texture:FXEmbersLight
+21e727da.fe99d50b.asset
+Texture:FXCloudCR01
+21e727da.e4da4bfc.asset
+Texture:FXStreak
+21e727da.fc7db168.asset
+Texture:FXFireball4x4
+21e727da.ff0c9955.asset
+Texture:NUReckoner_NRM
+21e727da.b3593d21.asset
+Texture:NUReckoner_SPM
+21e727da.3d404477.asset
+Texture:ScrollTest
+21e727da.56a37a31.asset
+Texture:NUReckonerTreads
+21e727da.db979650.asset
+Texture:NUReckonerTreads_D
+21e727da.13878368.asset
+Texture:FXFormation
+21e727da.5de773e0.asset
+Texture:FXInterlacedMask2
+21e727da.b15da95e.asset
+W3DContainer:NURECKONER_SKN
+f0f08712.73feabba.asset
+subobject RURECKONER bone 0
+subobject TREADSMOVE bone 41
+subobject TREADSSTOP bone 40
+subobject TREADSTURNLEFT bone 39
+subobject TREADSTURNRIGHT bone 38
+subobject DOZERBLADE bone 0
+subobject TREDS bone 0
+subobject OBBOX bone 0
+W3DContainer:NURECKONER_R
+f0f08712.bb9e5091.asset
+subobject TREADSBASE_L bone 0
+subobject NODRECONER_HOOD_DETACH bone 30
+subobject NODRECONER_TRUNK_DETACH bone 28
+subobject NODRECONER_EXTF_D bone 26
+subobject NODRECONER_EXTB_D bone 25
+subobject NODRECONER_ROOF_D bone 24
+subobject NODRECONER_SIDES bone 23
+subobject NODRECONER_HOOD_D bone 22
+subobject WHEELFRONTLEFT bone 21
+subobject WHEELREARRIGHT bone 20
+subobject WHEELREARLEFT bone 18
+subobject NODRECONER_TRUNK bone 17
+subobject TREADSSTOP_L bone 14
+subobject TREADSTURNRIGHT_R bone 11
+subobject TREADSTURNLEFT_R bone 10
+subobject TREADSSTOP_R bone 9
+subobject TREADSMOVE_R bone 8
+subobject TREADSBASE_R bone 7
+subobject NODRECONERBODY bone 6
+subobject OBBOX bone 0
+W3DContainer:NURECKONER_FP
+f0f08712.cb087bbf.asset
+subobject NODRECKONER bone 1
+subobject OBBOX bone 0
+W3DAnimation:NURECKONER_UPAK
+2448ae30.7698c757.asset
+W3DHierarchy:NURECKONER_SKL
+61d7ea40.f73c73ca.asset
+W3DHierarchy:NURECKONER_FP
+61d7ea40.cb087bbf.asset
+W3DMesh:NURECKONER_SKN.RURECKONER
+c2b1a262.1d2cacc4.asset
+W3DMesh:NURECKONER_SKN.TREADSMOVE
+c2b1a262.f8d45100.asset
+W3DMesh:NURECKONER_SKN.TREADSSTOP
+c2b1a262.92f35072.asset
+W3DMesh:NURECKONER_SKN.TREADSTURNLEFT
+c2b1a262.b8d5dd8d.asset
+W3DMesh:NURECKONER_SKN.TREADSTURNRIGHT
+c2b1a262.cd816c4c.asset
+W3DMesh:NURECKONER_SKN.DOZERBLADE
+c2b1a262.9dd8255a.asset
+W3DMesh:NURECKONER_SKN.TREDS
+c2b1a262.d1aad3a.asset
+W3DMesh:NURECKONER_R.TREADSBASE_L
+c2b1a262.daa5e1ce.asset
+W3DMesh:NURECKONER_R.NODRECONER_HOOD_DETACH
+c2b1a262.58ba0e5d.asset
+W3DMesh:NURECKONER_R.NODRECONER_TRUNK_DETACH
+c2b1a262.6367a17f.asset
+W3DMesh:NURECKONER_R.NODRECONER_EXTF_D
+c2b1a262.8c409cbd.asset
+W3DMesh:NURECKONER_R.NODRECONER_EXTB_D
+c2b1a262.3db772f7.asset
+W3DMesh:NURECKONER_R.NODRECONER_ROOF_D
+c2b1a262.e264e09e.asset
+W3DMesh:NURECKONER_R.NODRECONER_SIDES
+c2b1a262.c301832a.asset
+W3DMesh:NURECKONER_R.NODRECONER_HOOD_D
+c2b1a262.3dd44610.asset
+W3DMesh:NURECKONER_R.WHEELFRONTLEFT
+c2b1a262.bb682d42.asset
+W3DMesh:NURECKONER_R.WHEELREARRIGHT
+c2b1a262.556b038b.asset
+W3DMesh:NURECKONER_R.WHEELREARLEFT
+c2b1a262.ff777b31.asset
+W3DMesh:NURECKONER_R.NODRECONER_TRUNK
+c2b1a262.1b6afaa3.asset
+W3DMesh:NURECKONER_R.TREADSSTOP_L
+c2b1a262.e51bee6e.asset
+W3DMesh:NURECKONER_R.TREADSTURNRIGHT_R
+c2b1a262.d4fe72d.asset
+W3DMesh:NURECKONER_R.TREADSTURNLEFT_R
+c2b1a262.40a32824.asset
+W3DMesh:NURECKONER_R.TREADSSTOP_R
+c2b1a262.fd01e56d.asset
+W3DMesh:NURECKONER_R.TREADSMOVE_R
+c2b1a262.aaae20cc.asset
+W3DMesh:NURECKONER_R.TREADSBASE_R
+c2b1a262.dd955189.asset
+W3DMesh:NURECKONER_R.NODRECONERBODY
+c2b1a262.bd5215be.asset
+W3DMesh:NURECKONER_FP.NODRECKONER
+c2b1a262.ed806800.asset
+W3DCollisionBox:NURECKONER_SKN.OBBOX
+e3181c04.59b9de44.asset
+W3DCollisionBox:NURECKONER_R.OBBOX
+e3181c04.46b531ab.asset
+W3DCollisionBox:NURECKONER_FP.OBBOX
+e3181c04.715cd2cd.asset

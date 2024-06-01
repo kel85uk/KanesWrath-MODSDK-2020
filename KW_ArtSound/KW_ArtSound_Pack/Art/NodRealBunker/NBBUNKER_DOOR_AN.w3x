@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<W3DAnimation id="NBBUNKER_DOOR" Hierarchy="NBBUNKER_DOOR" NumFrames="31" FrameRate="30">
+		<Channels>
+			<ChannelScalar Pivot="1" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>-0.080413</Frame>
+				<Frame>-0.314339</Frame>
+				<Frame>-0.690815</Frame>
+				<Frame>-1.198874</Frame>
+				<Frame>-1.827553</Frame>
+				<Frame>-2.565884</Frame>
+				<Frame>-3.402903</Frame>
+				<Frame>-4.327645</Frame>
+				<Frame>-5.329143</Frame>
+				<Frame>-6.396435</Frame>
+				<Frame>-7.518551</Frame>
+				<Frame>-8.684529</Frame>
+				<Frame>-9.883404</Frame>
+				<Frame>-11.104209</Frame>
+				<Frame>-12.335979</Frame>
+				<Frame>-13.567752</Frame>
+				<Frame>-14.788554</Frame>
+				<Frame>-15.987430</Frame>
+				<Frame>-17.153408</Frame>
+				<Frame>-18.275526</Frame>
+				<Frame>-19.342815</Frame>
+				<Frame>-20.344313</Frame>
+				<Frame>-21.269056</Frame>
+				<Frame>-22.106075</Frame>
+				<Frame>-22.844406</Frame>
+				<Frame>-23.473085</Frame>
+				<Frame>-23.981144</Frame>
+				<Frame>-24.357620</Frame>
+				<Frame>-24.591547</Frame>
+				<Frame>-24.671959</Frame>
+			</ChannelScalar>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>

@@ -1,0 +1,142 @@
+Texture:EXTnkTrack
+21e727da.ed17c8ff.asset
+Texture:NUMornstar
+21e727da.169929f3.asset
+Texture:FXSmoke01
+21e727da.8d9b3f98.asset
+Texture:FXFireScroll
+21e727da.25d66231.asset
+Texture:FXSphereNRM
+21e727da.8c8826e2.asset
+Texture:FXFractal01NRM
+21e727da.7fc3a305.asset
+Texture:FXLenzFlare04
+21e727da.1dccb615.asset
+Texture:FXLenzFlare01
+21e727da.2c841328.asset
+Texture:FXLightning03
+21e727da.2654f4a.asset
+Texture:FXFireball4x4
+21e727da.ff0c9955.asset
+Texture:FXGDIDebris
+21e727da.b9725ca4.asset
+Texture:FXGDIDebrisNRM
+21e727da.c5fd70e9.asset
+Texture:FXSmokeCloud
+21e727da.eb59a2c7.asset
+Texture:NUFlameTankTreads
+21e727da.425c6b13.asset
+Texture:NUMornstar_NRM
+21e727da.3cac9f2.asset
+Texture:NUMornstar_SPM
+21e727da.9425ec65.asset
+Texture:ScrollTest
+21e727da.56a37a31.asset
+Texture:FXMuzzle
+21e727da.d4c42dbc.asset
+Texture:FXFormation
+21e727da.5de773e0.asset
+Texture:FXInterlacedMask2
+21e727da.b15da95e.asset
+Texture:NUMornstar_D
+21e727da.49230fab.asset
+Texture:FXFracTileNRM
+21e727da.fe2c603b.asset
+W3DContainer:NUMORNSTAR_SKN
+f0f08712.39db2137.asset
+subobject TREDS bone 0
+subobject NUMORNSTAR_BODY bone 0
+subobject TREDSSTOP bone 16
+subobject TREDSMOVE bone 15
+subobject TREADSTURNRIGHT bone 14
+subobject TREADSTURNLEFT bone 13
+subobject MUZZLEFLASH_01 bone 10
+subobject OBBOX bone 0
+W3DContainer:NUMORNSTAR_FP
+f0f08712.c4d1c1f.asset
+subobject NUMORNSTAR_BODY bone 1
+subobject OBBOX bone 0
+W3DContainer:NUMORNSTARD_SKN
+f0f08712.c8ed8782.asset
+subobject TREDS bone 0
+subobject NUMORNSTAR_BODY bone 0
+subobject TREDSSTOP bone 16
+subobject TREDSMOVE bone 15
+subobject TREADSTURNRIGHT bone 14
+subobject TREADSTURNLEFT bone 13
+subobject MUZZLEFLASH_01 bone 10
+subobject OBBOX bone 0
+W3DContainer:NU_ARTLLRYR
+f0f08712.4c657ddf.asset
+subobject NU_ARTLLRY bone 1
+W3DContainer:NUMORNSTARS_SKN
+f0f08712.33a2070f.asset
+subobject TREDS bone 0
+subobject NUMORNSTAR_BODY bone 0
+subobject TREDSSTOP bone 16
+subobject TREDSMOVE bone 15
+subobject TREADSTURNRIGHT bone 14
+subobject TREADSTURNLEFT bone 13
+subobject OBBOX bone 0
+W3DAnimation:NUMORNSTAR_ATKA
+2448ae30.e0906689.asset
+W3DAnimation:NUMORNSTAR_FIRE
+2448ae30.81895878.asset
+W3DHierarchy:NUMORNSTAR_SKL
+61d7ea40.34a4f946.asset
+W3DHierarchy:NUMORNSTAR_FP
+61d7ea40.c4d1c1f.asset
+W3DHierarchy:NU_ARTLLRYR
+61d7ea40.4c657ddf.asset
+W3DMesh:NUMORNSTAR_SKN.TREDS
+c2b1a262.8b5296f9.asset
+W3DMesh:NUMORNSTAR_SKN.NUMORNSTAR_BODY
+c2b1a262.b2fc6397.asset
+W3DMesh:NUMORNSTAR_SKN.TREDSSTOP
+c2b1a262.f81b5c96.asset
+W3DMesh:NUMORNSTAR_SKN.TREDSMOVE
+c2b1a262.d26af14e.asset
+W3DMesh:NUMORNSTAR_SKN.TREADSTURNRIGHT
+c2b1a262.89a6947d.asset
+W3DMesh:NUMORNSTAR_SKN.TREADSTURNLEFT
+c2b1a262.cd21f7fd.asset
+W3DMesh:NUMORNSTAR_SKN.MUZZLEFLASH_01
+c2b1a262.7aa0fab5.asset
+W3DMesh:NUMORNSTAR_FP.NUMORNSTAR_BODY
+c2b1a262.f4098328.asset
+W3DMesh:NUMORNSTARD_SKN.TREDS
+c2b1a262.d19107f4.asset
+W3DMesh:NUMORNSTARD_SKN.NUMORNSTAR_BODY
+c2b1a262.31cfb6f4.asset
+W3DMesh:NUMORNSTARD_SKN.TREDSSTOP
+c2b1a262.fcc5cf46.asset
+W3DMesh:NUMORNSTARD_SKN.TREDSMOVE
+c2b1a262.137f236e.asset
+W3DMesh:NUMORNSTARD_SKN.TREADSTURNRIGHT
+c2b1a262.cbab40ab.asset
+W3DMesh:NUMORNSTARD_SKN.TREADSTURNLEFT
+c2b1a262.1f93b574.asset
+W3DMesh:NUMORNSTARD_SKN.MUZZLEFLASH_01
+c2b1a262.ca0d45d9.asset
+W3DMesh:NU_ARTLLRYR.NU_ARTLLRY
+c2b1a262.ea46f5d.asset
+W3DMesh:NUMORNSTARS_SKN.TREDS
+c2b1a262.1dfdccd9.asset
+W3DMesh:NUMORNSTARS_SKN.NUMORNSTAR_BODY
+c2b1a262.41961cae.asset
+W3DMesh:NUMORNSTARS_SKN.TREDSSTOP
+c2b1a262.99c2803e.asset
+W3DMesh:NUMORNSTARS_SKN.TREDSMOVE
+c2b1a262.b998eed.asset
+W3DMesh:NUMORNSTARS_SKN.TREADSTURNRIGHT
+c2b1a262.e39ac8d.asset
+W3DMesh:NUMORNSTARS_SKN.TREADSTURNLEFT
+c2b1a262.9958bf93.asset
+W3DCollisionBox:NUMORNSTAR_SKN.OBBOX
+e3181c04.42060ee6.asset
+W3DCollisionBox:NUMORNSTAR_FP.OBBOX
+e3181c04.72d3a317.asset
+W3DCollisionBox:NUMORNSTARD_SKN.OBBOX
+e3181c04.561eeb70.asset
+W3DCollisionBox:NUMORNSTARS_SKN.OBBOX
+e3181c04.7585a21b.asset

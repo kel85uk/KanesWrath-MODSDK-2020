@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Includes>
+		<Include type="all" source="ART:guinfantryb_skl.w3x"/>
+	</Includes>
+	<W3DAnimation id="GUINFANTRYB_ATKA" Hierarchy="GUINFANTRYB_SKL" NumFrames="7" FrameRate="30">
+		<Channels>
+			<ChannelScalar Pivot="1" Type="XTranslation" FirstFrame="1">
+				<Frame>-0.330135</Frame>
+				<Frame>-0.635887</Frame>
+				<Frame>-0.195713</Frame>
+				<Frame>0.195065</Frame>
+				<Frame>-0.341025</Frame>
+				<Frame>-0.835991</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="1" Type="YTranslation" FirstFrame="1">
+				<Frame>0.173532</Frame>
+				<Frame>0.320063</Frame>
+				<Frame>0.050701</Frame>
+				<Frame>-0.216005</Frame>
+				<Frame>-0.055753</Frame>
+				<Frame>0.125303</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="1" Type="ZTranslation" FirstFrame="0">
+				<Frame>1.677329</Frame>
+				<Frame>1.555025</Frame>
+				<Frame>1.432719</Frame>
+				<Frame>1.555024</Frame>
+				<Frame>1.677329</Frame>
+				<Frame>1.555025</Frame>
+				<Frame>1.432719</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="6" Type="Orientation" FirstFrame="1">
+				<Frame X="-0.000731" Y="-0.050019" Z="0.014592" W="0.998641"/>
+				<Frame X="-0.000729" Y="-0.025017" Z="0.009709" W="0.999640"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.000000" W="1.000000"/>
+				<Frame X="0.000699" Y="-0.050019" Z="-0.013963" W="0.998650"/>
+				<Frame X="0.000705" Y="-0.025018" Z="-0.009394" W="0.999643"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="9" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.024935" Y="-0.038982" Z="-0.228365" W="0.972475"/>
+				<Frame X="-0.022961" Y="-0.053322" Z="-0.200545" W="0.977963"/>
+				<Frame X="-0.022163" Y="-0.064977" Z="-0.174810" W="0.982206"/>
+				<Frame X="-0.024647" Y="-0.043610" Z="-0.208165" W="0.976810"/>
+				<Frame X="-0.028963" Y="-0.020909" Z="-0.239697" W="0.970190"/>
+				<Frame X="-0.026808" Y="-0.034660" Z="-0.199164" W="0.978986"/>
+				<Frame X="-0.025561" Y="-0.048953" Z="-0.163003" W="0.985079"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="10" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.000000" Y="-0.000000" Z="0.323582" W="0.946200"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.292694" W="0.956206"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.264893" W="0.964278"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.292529" W="0.956257"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.325389" W="0.945580"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.287344" W="0.957827"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.258819" W="0.965926"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="11" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.304871" W="0.952394"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.276803" W="0.960927"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.251427" W="0.967876"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.276652" W="0.960970"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.306511" W="0.951867"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.271917" W="0.962321"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.245886" W="0.969299"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="12" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.000000" Y="-0.000000" Z="0.026613" W="0.999646"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.021947" W="0.999759"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.018224" W="0.999834"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.021925" W="0.999760"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.026898" W="0.999638"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.021228" W="0.999775"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.017415" W="0.999848"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="13" Type="Orientation" FirstFrame="0">
+				<Frame X="0.036668" Y="0.028228" Z="0.183085" W="0.982007"/>
+				<Frame X="0.039337" Y="0.042696" Z="0.162727" W="0.984962"/>
+				<Frame X="0.042104" Y="0.054226" Z="0.143133" W="0.987320"/>
+				<Frame X="0.037708" Y="0.032976" Z="0.170423" W="0.984097"/>
+				<Frame X="0.034339" Y="0.009843" Z="0.194048" W="0.980341"/>
+				<Frame X="0.036752" Y="0.023860" Z="0.162519" W="0.985732"/>
+				<Frame X="0.040049" Y="0.038024" Z="0.132609" W="0.989629"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="15" Type="Orientation" FirstFrame="0">
+				<Frame X="0.031544" Y="0.041623" Z="-0.103534" W="0.993254"/>
+				<Frame X="0.035541" Y="0.029154" Z="-0.078537" W="0.995851"/>
+				<Frame X="0.038303" Y="0.019105" Z="-0.055827" W="0.997523"/>
+				<Frame X="0.033069" Y="0.038201" Z="-0.084460" W="0.995145"/>
+				<Frame X="0.026360" Y="0.058200" Z="-0.112923" W="0.991547"/>
+				<Frame X="0.031296" Y="0.045711" Z="-0.079478" W="0.995296"/>
+				<Frame X="0.035326" Y="0.032809" Z="-0.049612" W="0.997604"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="16" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.000000" Y="-0.000000" Z="0.333115" W="0.942886"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.313300" W="0.949654"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.297607" W="0.954688"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.310552" W="0.950556"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.332950" W="0.942944"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.319071" W="0.947731"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.310735" W="0.950496"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="17" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.313527" W="0.949579"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.295542" W="0.955330"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.281290" W="0.959623"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.293049" W="0.956097"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.313377" W="0.949629"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.300777" W="0.953694"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.293216" W="0.956046"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="18" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.000000" Y="-0.000000" Z="0.028117" W="0.999605"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.024998" W="0.999687"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.022608" W="0.999744"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.024567" W="0.999698"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.028091" W="0.999605"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.025904" W="0.999664"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="0.024595" W="0.999698"/>
+			</ChannelQuaternion>
+			<ChannelQuaternion Pivot="19" Type="Orientation" FirstFrame="0">
+				<Frame X="-0.043852" Y="-0.028364" Z="0.054937" W="0.997123"/>
+				<Frame X="-0.043275" Y="-0.015504" Z="0.035013" W="0.998329"/>
+				<Frame X="-0.042476" Y="-0.005280" Z="0.016235" W="0.998952"/>
+				<Frame X="-0.043972" Y="-0.024886" Z="0.041675" W="0.997853"/>
+				<Frame X="-0.044632" Y="-0.045717" Z="0.064441" W="0.995874"/>
+				<Frame X="-0.044895" Y="-0.032456" Z="0.034476" W="0.997869"/>
+				<Frame X="-0.044289" Y="-0.019048" Z="0.006706" W="0.998815"/>
+			</ChannelQuaternion>
+			<ChannelScalar Pivot="21" Type="XTranslation" FirstFrame="1">
+				<Frame>-0.330138</Frame>
+				<Frame>-0.635890</Frame>
+				<Frame>-0.195716</Frame>
+				<Frame>0.195062</Frame>
+				<Frame>-0.341028</Frame>
+				<Frame>-0.835994</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="21" Type="YTranslation" FirstFrame="1">
+				<Frame>0.173536</Frame>
+				<Frame>0.320067</Frame>
+				<Frame>0.050705</Frame>
+				<Frame>-0.216001</Frame>
+				<Frame>-0.055748</Frame>
+				<Frame>0.125308</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="21" Type="ZTranslation" FirstFrame="0">
+				<Frame>1.677327</Frame>
+				<Frame>1.555024</Frame>
+				<Frame>1.432717</Frame>
+				<Frame>1.555022</Frame>
+				<Frame>1.677327</Frame>
+				<Frame>1.555024</Frame>
+				<Frame>1.432717</Frame>
+			</ChannelScalar>
+			<ChannelQuaternion Pivot="21" Type="Orientation" FirstFrame="1">
+				<Frame X="-0.000550" Y="-0.025014" Z="0.007321" W="0.999660"/>
+				<Frame X="-0.000731" Y="-0.050019" Z="0.014592" W="0.998641"/>
+				<Frame X="-0.000000" Y="-0.000000" Z="-0.000000" W="1.000000"/>
+				<Frame X="0.000705" Y="-0.025018" Z="-0.009394" W="0.999643"/>
+				<Frame X="0.000699" Y="-0.050019" Z="-0.013963" W="0.998650"/>
+			</ChannelQuaternion>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>

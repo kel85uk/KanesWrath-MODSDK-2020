@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<W3DHierarchy id="NBENGFAD2BASE_SKL">
+		<Pivot Name="ROOTTRANSFORM" Parent="-1">
+			<Translation X="0.000000" Y="0.000000" Z="0.000000"/>
+			<Rotation X="0.000000" Y="0.000000" Z="0.000000" W="1.000000"/>
+			<FixupMatrix M00="1.000000" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="1.000000" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="1.000000" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+		<Pivot Name="BONE_BASE_02" Parent="0">
+			<Translation X="-92.655106" Y="-1.866621" Z="12.013201"/>
+			<Rotation X="-0.023040" Y="-0.026956" Z="-0.999308" W="0.011217"/>
+			<FixupMatrix M00="0.988387" M10="0.000000" M20="0.000000" M30="0.000000" M01="0.000000" M11="0.988387" M21="0.000000" M31="0.000000" M02="0.000000" M12="0.000000" M22="0.988387" M32="0.000000" M03="0.000000" M13="0.000000" M23="0.000000" M33="0.000000"/>
+		</Pivot>
+	</W3DHierarchy>
+</AssetDeclaration>

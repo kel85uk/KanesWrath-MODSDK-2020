@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+    <Includes>
+        <Include type="all" source="GDIConstructionYard/GameObject.xml" />
+        <Include type="all" source="GDIConstructionYard/LogicCommandSet.xml" />
+    </Includes>
+</AssetDeclaration>

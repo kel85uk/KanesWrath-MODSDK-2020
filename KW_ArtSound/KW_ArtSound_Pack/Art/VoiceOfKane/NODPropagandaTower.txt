@@ -1,0 +1,79 @@
+Texture:NBVoicKane
+21e727da.4c634a07.asset
+Texture:NBVoicKaneD
+21e727da.c9dce317.asset
+Texture:Decal_LeadershipBuff
+21e727da.710ee2a3.asset
+Texture:FXFractal01NRM
+21e727da.7fc3a305.asset
+Texture:FXFireScroll
+21e727da.25d66231.asset
+Texture:FXSphereNRM
+21e727da.8c8826e2.asset
+Texture:FXSmoke01
+21e727da.8d9b3f98.asset
+Texture:FXsmokeplume
+21e727da.1cf8613e.asset
+Texture:FXSmoke2x2_02
+21e727da.7fb67297.asset
+Texture:FXSmoke2x2_02_NRM
+21e727da.959f32e.asset
+Texture:FXNRMStreaksA
+21e727da.2b363f47.asset
+Texture:NBVoicKane_NRM
+21e727da.76ce4c61.asset
+Texture:NBVoicKane_SPM
+21e727da.8a40615c.asset
+Texture:ScrollTest
+21e727da.56a37a31.asset
+Texture:FXAlienOverlay
+21e727da.1f74d73.asset
+W3DContainer:NBVOICKANE
+f0f08712.4c634a07.asset
+subobject OBBOX bone 2
+subobject NBVOICEKANE bone 1
+W3DContainer:NBVOICKANE_A
+f0f08712.ee9762bc.asset
+subobject NBVOICEKANE bone 1
+W3DContainer:NBVOICKANED3_SKN
+f0f08712.7bdfa6b2.asset
+subobject NEWSKIN bone 0
+W3DContainer:NBVOICKANED2_SKN
+f0f08712.c47af82e.asset
+subobject OBBOX bone 6
+subobject NEWSKIN bone 0
+W3DContainer:FXINVISBONE
+f0f08712.81de97bb.asset
+subobject MESH bone 1
+
+W3DAnimation:NBVOICKANE_A
+2448ae30.ee9762bc.asset
+W3DAnimation:NBVOICKANED3_ANM
+2448ae30.c4cccee1.asset
+W3DAnimation:NBVOICKANED2_ANM
+2448ae30.4a49cdef.asset
+
+W3DHierarchy:NBVOICKANE
+61d7ea40.4c634a07.asset
+W3DHierarchy:NBVOICKANE_A
+61d7ea40.ee9762bc.asset
+W3DHierarchy:NBVOICKANED3_SKL
+61d7ea40.fad87a17.asset
+W3DHierarchy:NBVOICKANED2_SKL
+61d7ea40.86e91cdf.asset
+W3DHierarchy:FXINVISBONE
+61d7ea40.81de97bb.asset
+W3DMesh:NBVOICKANE.NBVOICEKANE
+c2b1a262.586106da.asset
+W3DMesh:NBVOICKANE_A.NBVOICEKANE
+c2b1a262.2431e43f.asset
+W3DMesh:NBVOICKANED3_SKN.NEWSKIN
+c2b1a262.124e7a20.asset
+W3DMesh:NBVOICKANED2_SKN.NEWSKIN
+c2b1a262.116fc276.asset
+W3DMesh:FXINVISBONE.MESH
+c2b1a262.a7104e53.asset
+W3DCollisionBox:NBVOICKANE.OBBOX
+e3181c04.4e33e010.asset
+W3DCollisionBox:NBVOICKANED2_SKN.OBBOX
+e3181c04.a40fd6ab.asset

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<W3DAnimation id="ABHIVE_FXOPN" Hierarchy="ABHIVE_FXOPN" NumFrames="30" FrameRate="30">
+		<Channels>
+			<ChannelScalar Pivot="1" Type="ZTranslation" FirstFrame="0">
+				<Frame>0.000000</Frame>
+				<Frame>0.238948</Frame>
+				<Frame>0.623005</Frame>
+				<Frame>1.140564</Frame>
+				<Frame>1.780014</Frame>
+				<Frame>2.529749</Frame>
+				<Frame>3.378158</Frame>
+				<Frame>4.313632</Frame>
+				<Frame>5.324565</Frame>
+				<Frame>6.399344</Frame>
+				<Frame>7.526364</Frame>
+				<Frame>8.694015</Frame>
+				<Frame>9.890687</Frame>
+				<Frame>11.104772</Frame>
+				<Frame>12.324662</Frame>
+				<Frame>13.538749</Frame>
+				<Frame>14.735421</Frame>
+				<Frame>15.903071</Frame>
+				<Frame>17.030090</Frame>
+				<Frame>18.104870</Frame>
+				<Frame>19.115803</Frame>
+				<Frame>20.051277</Frame>
+				<Frame>20.899685</Frame>
+				<Frame>21.649418</Frame>
+				<Frame>22.288868</Frame>
+				<Frame>22.806427</Frame>
+				<Frame>23.190487</Frame>
+				<Frame>23.429432</Frame>
+				<Frame>23.511662</Frame>
+				<Frame>23.511662</Frame>
+			</ChannelScalar>
+			<ChannelScalar Pivot="2" Type="Visibility" FirstFrame="0">
+				<Frame>0.028000</Frame>
+				<Frame>0.100397</Frame>
+				<Frame>0.205489</Frame>
+				<Frame>0.333936</Frame>
+				<Frame>0.474059</Frame>
+				<Frame>0.614182</Frame>
+				<Frame>0.742629</Frame>
+				<Frame>0.848889</Frame>
+				<Frame>0.920118</Frame>
+				<Frame>0.946975</Frame>
+				<Frame>0.946975</Frame>
+				<Frame>0.946975</Frame>
+				<Frame>0.946975</Frame>
+				<Frame>0.946975</Frame>
+				<Frame>0.946975</Frame>
+				<Frame>0.946975</Frame>
+				<Frame>0.946975</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+				<Frame>0.946225</Frame>
+			</ChannelScalar>
+		</Channels>
+	</W3DAnimation>
+</AssetDeclaration>
