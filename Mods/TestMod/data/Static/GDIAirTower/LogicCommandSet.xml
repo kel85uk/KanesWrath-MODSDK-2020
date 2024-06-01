@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+    <LogicCommandSet
+        id="GDIAirTowerCommandSet">
+        <Cmd>Command_ConstructGDIOrca</Cmd>
+        <Cmd>Command_ConstructGDIHammerhead</Cmd>
+        <Cmd>Command_ConstructCustomHammerhead</Cmd>
+        <Cmd>Command_ConstructGDIFireHawk</Cmd>
+        <Cmd>Command_ConstructAlienMCV</Cmd>
+        <Cmd>Command_GDIRecallAllAircraft</Cmd>
+        <Cmd>Command_CommandPostCallBloodhound</Cmd>
+        <Cmd>Command_CommandPostBombingRun</Cmd>
+        <Cmd>Command_PurchaseUpgradeGDIHardpoints</Cmd>
+        <Cmd>Command_PurchaseUpgradeStratofighterBooster</Cmd>
+    </LogicCommandSet>
+</AssetDeclaration>

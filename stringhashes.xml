@@ -49619,6 +49619,10 @@
         <StringAndHash Hash="3136352204" Text="FX_MGStrikeSummonMdCast" />
         <StringAndHash Hash="2227377241" Text="FX_MGStrikeSummonLgCast" />
         <StringAndHash Hash="3386552966" Text="FXMGMove_Turn" />
+        <StringAndHash Hash="250661011" Text="CustomHammerheadChaingun" />
+        <StringAndHash Hash="2055829738" Text="CustomHammerheadUpgradedChaingun" />
+        <StringAndHash Hash="1267492108" Text="CustomHammerhead" />
+        <StringAndHash Hash="3655741486" Text="Command_ConstructCustomHammerHead" />
         <StringAndHash Hash="1109983934" Text="CustomTiberiumSpike" />
         <StringAndHash Hash="713507313" Text="Command_ConstructCustomTiberiumSpike" />
         <StringAndHash Hash="1752824877" Text="MirageTankLocomotor" />

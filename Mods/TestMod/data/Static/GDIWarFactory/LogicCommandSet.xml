@@ -10,9 +10,10 @@
 		<Cmd>Command_ConstructGDISonicTank</Cmd>
 		<Cmd>Command_ConstructGDIAAScout</Cmd>
 		<Cmd>Command_ConstructGDIRig</Cmd>
-		<Cmd>Command_ConstructMirageTank</Cmd>
 		<Cmd>Command_ConstructGDIMammoth</Cmd>
 		<Cmd>Command_ConstructGDIJuggernaught</Cmd>
+		<Cmd>Command_ConstructMirageTank</Cmd>
+		<Cmd>Command_ConstructNODMCV</Cmd>
 		<Cmd>Command_RepairVehicle</Cmd>
 	</LogicCommandSet>
 </AssetDeclaration>

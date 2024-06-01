@@ -11,8 +11,9 @@
 		<!-- Includes of the Mod's Static Data -->
 		<Include type="all" source="Static/GDIReclamatorHub.xml" />
 		<Include type="all" source="Static/GDIWarFactory.xml" />
+		<Include type="all" source="Static/GDIAirTower.xml" />
 		<Include type="all" source="Static/GDIConstructionYard.xml"/>
-		<Include type="all" source="Static/GDIHammerHead.xml" />
+		<Include type="all" source="Static/CustomHammerHead.xml" />
 		<Include type="all" source="Static/CustomTiberiumSpike.xml"/>
 		<Include type="all" source="Static/MirageTank.xml" />
 		<Include type="all" source="Static/Misc.xml" />

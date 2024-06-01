@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AssetDeclaration xmlns="uri:ea.com:eala:asset">
     <GameObject
-        id="GDIHammerhead"
+        id="CustomHammerhead"
         KindOf="SELECTABLE CAN_ATTACK CAN_CAST_REFLECTIONS AIRCRAFT TRANSPORT PRELOAD NO_COLLIDE SCORE ATTACK_NEEDS_LINE_OF_SIGHT PRODUCED_AT_HELIPAD BEAM_TARGET_REFLECTOR HIDE_IF_FOGGED VEHICLE ASSAULT_AIRCRAFT LINE_OF_SIGHT_IGNORES_BUILDINGS CAN_BE_FAVORITE_UNIT"
         Description="Desc:GDIHammerhead"
         TypeDescription="Type:GDIHammerhead"
@@ -68,11 +68,11 @@
         ReinvisibilityDelay="7s"
         WorldMapArmoryUpgradesAllowed="Upgrade_GDIAPAmmo"
         CaptureTime="0s"
-        BuildCost="50"
+        BuildCost="1500"
         RefundValue="0"
         ThreatValue="0"
         MaxSimultaneousOfType="0"
-        TransportSlotCount="5"
+        TransportSlotCount="1"
         IsTrainable="True"
         IsForbidden="False"
         IsPrerequisite="False"
@@ -87,11 +87,6 @@
         ShouldClearShotsOnIdle="False"
         BuildInProximityToSamePlayerStucture="True">
         <DisplayName>Name:GDIHammerhead</DisplayName>
-        <GameDependency
-            RequiredModelConditionsAny=""
-            ForbiddenModelConditions=""
-            RequiredObjectStatusAny="">
-            <RequiredObject>CustomTiberiumSpike</RequiredObject>
         <ArmorSet
             Armor="InvulnerableArmor"
             DamageFX="VehicleDamageFX"
@@ -101,7 +96,7 @@
             Condition="TAXIING"
             Locomotor="BasicHelicopterTaxiLocomotor" />
         <LocomotorSet
-            Speed="450"
+            Speed="600"
             Condition="NORMAL"
             Locomotor="GDIHammerheadLocomotor" />
         <SkirmishAIInformation
@@ -1246,13 +1241,13 @@
                     AllowInterleavedFiring="False">
                     <Weapon
                         Ordering="PRIMARY_WEAPON"
-                        Template="GDIHammerheadChaingun"
+                        Template="CustomHammerheadChaingun"
                         Upgrade=""
                         ObjectStatus=""
                         IsPlayerUpgradePermanent="False" />
                     <Weapon
                         Ordering="PRIMARY_WEAPON"
-                        Template="GDIHammerheadUpgradedChaingun"
+                        Template="CustomHammerheadUpgradedChaingun"
                         Upgrade=""
                         ObjectStatus="WEAPON_UPGRADED_01"
                         IsPlayerUpgradePermanent="False" />
@@ -1293,13 +1288,13 @@
                     AllowInterleavedFiring="False">
                     <Weapon
                         Ordering="PRIMARY_WEAPON"
-                        Template="GDIHammerheadChaingun"
+                        Template="CustomHammerheadChaingun"
                         Upgrade=""
                         ObjectStatus=""
                         IsPlayerUpgradePermanent="False" />
                     <Weapon
                         Ordering="PRIMARY_WEAPON"
-                        Template="GDIHammerheadUpgradedChaingun"
+                        Template="CustomHammerheadUpgradedChaingun"
                         Upgrade=""
                         ObjectStatus="WEAPON_UPGRADED_01"
                         IsPlayerUpgradePermanent="False" />
@@ -1375,7 +1370,7 @@
             </ModelConditionUpgrade>
             <HordeTransportContain
                 id="9DC593B0"
-                ContainMax="1"
+                ContainMax="5"
                 EnterSound="VehicleEnter"
                 ExitSound="VehicleExit"
                 DamagePercentToUnits="0%"
