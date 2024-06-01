@@ -68,7 +68,7 @@
         ReinvisibilityDelay="7s"
         WorldMapArmoryUpgradesAllowed="Upgrade_GDIAPAmmo"
         CaptureTime="0s"
-        BuildCost="1500"
+        BuildCost="250"
         RefundValue="0"
         ThreatValue="0"
         MaxSimultaneousOfType="0"
@@ -1896,8 +1896,8 @@
             IsRotatingWithObject="True"
             LocalPlayerOnly="False" />
         <VisionInfo
-            VisionRange="350"
-            ShroudClearingRange="500"
+            VisionRange="750"
+            ShroudClearingRange="1000"
             VisionSide="100%"
             VisionRear="100%"
             VisionBonusTestRadius="100"
