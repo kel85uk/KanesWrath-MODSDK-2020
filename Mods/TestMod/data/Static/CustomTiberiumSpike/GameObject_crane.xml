@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AssetDeclaration xmlns="uri:ea.com:eala:asset">
     <GameObject
-        id="CustomTiberiumSpike"
-        KindOf="SELECTABLE IMMOBILE CAN_CAST_REFLECTIONS STRUCTURE FS_TECHNOLOGY NOT_AUTOACQUIRABLE IGNORE_FOR_VICTORY NOT_SELLABLE TIBERIUM_BASED NEUTRAL_TECH"
-        Description="Desc:TechBuildingTiberiumSpike"
+        id="GDICrane"
+        KindOf="SELECTABLE IMMOBILE CAN_CAST_REFLECTIONS STRUCTURE FS_FACTORY NOT_AUTOACQUIRABLE CRANE CONSTRUCTION_YARD COVER AUTO_ACQUIRABLE_BY_AI"
+        Description="Desc:GDICrane"
+        TypeDescription="Type:GDICrane"
         RadarPriority="STRUCTURE"
         BuildCompletion="INVALID"
         FenceWidth="0"
@@ -14,22 +15,22 @@
         BuildFadeInOnCreateTimeSeconds="0s"
         FactoryExitWidth="0"
         FactoryExtraBibWidth="0"
-        Side="Neutral"
-        EditorName="CustomTiberiumSpike"
+        Side="GDI"
+        EditorName="GDICrane"
         EditorSorting="STRUCTURE"
         BountyValue="0"
-        BuildTime="2"
+        BuildTime="15"
         BuildFadeInOnCreateTime="0"
-        EnergyProduction="1000"
+        EnergyProduction="-10"
         EnergyBonus="0"
-        CommandSet="TibSpikeCommandSet"
-        SelectPortrait="Portrait_NeutralTiberiumSpike"
-        ButtonImage="Portrait_NeutralTiberiumSpike"
+        CommandSet="GDICraneCommandSet"
+        SelectPortrait="Portrait_GDICrane"
+        ButtonImage="Portrait_GDICrane"
         VoicePriority="0"
         MinZIncreaseForVoiceMoveToHigherGround="-1"
         CrowdResponse=""
-        CampnessValue="0"
-        CampnessValueRadius="600"
+        CampnessValue="2000"
+        CampnessValueRadius="300"
         Scale="1"
         HealthBoxScale="1.5"
         HealthBoxHeightOffset="10"
@@ -66,11 +67,11 @@
         UnitTypeIcon=""
         ReinvisibilityDelay="4s"
         CaptureTime="0s"
-        BuildCost="500"
+        BuildCost="1500"
         RefundValue="0"
         ThreatValue="0"
         MaxSimultaneousOfType="0"
-        TransportSlotCount="0"
+        TransportSlotCount="1"
         IsTrainable="True"
         IsForbidden="False"
         IsPrerequisite="False"
@@ -84,11 +85,26 @@
         CanPathThroughGates="True"
         ShouldClearShotsOnIdle="False"
         BuildInProximityToSamePlayerStucture="True">
-        <DisplayName>Name:TechBuildingTiberiumSpike</DisplayName>
+        <DisplayName>Name:GDICrane</DisplayName>
+        <GameDependency
+            RequiredModelConditionsAny=""
+            ForbiddenModelConditions=""
+            RequiredObjectStatusAny="">
+            <RequiredObject>GDIConstructionYard</RequiredObject>
+        </GameDependency>
         <ArmorSet
-            Armor="InvulnerableArmor"
-            DamageFX="GenericStructureDamageFX"
+            Armor="GDICraneArmor"
+            DamageFX="FactionStructureDamageFX"
             Conditions="" />
+        <ArmorSet
+            Armor="GDICraneSonicRepulsionFieldArmor"
+            DamageFX="NormalDamageFX"
+            Conditions="PLAYER_UPGRADE" />
+        <SkirmishAIInformation
+            BaseBuildingLocation="CENTER"
+            ConquerMetricsOverrideDamageType="UNDEFINED"
+            ConquerMetricsOverrideAntiMask="ANTI_GROUND"
+            UnitBuilderStandardCombatUnit="False" />
         <Draws>
             <ScriptedModelDraw
                 id="50DF2C46"
@@ -472,12 +488,50 @@
         <Behaviors>
             <AttributeModifierPoolUpdate
                 id="513BC476" />
+            <FireWeaponWhenDead
+                id="DDED328F"
+                RequiresAllTriggers="False"
+                RequiresAllConflictingTriggers="False"
+                Permanent="False"
+                WaypointMode="False"
+                WaypointModeTerminal="True"
+                DelayTime="0s"
+                DeathWeapon="CatalystBuildingDeathWeapon"
+                FocusFireKindOfFlag=""
+                InitiallyActive="True"
+                ActiveDuringConstruction="False"
+                ContinueToBezierDestination="False">
+                <DieMuxData
+                    ExemptStatus=""
+                    RequiredStatus=""
+                    DamageAmountRequired="-1"
+                    MinKillerAngle="1d"
+                    MaxKillerAngle="-1d"
+                    DeathTypes="CATALYST"
+                    DeathTypesForbidden="" />
+            </FireWeaponWhenDead>
+            <TemporarilyDefectUpdate
+                id="3473AFD2"
+                DefectionFrameCount="100" />
+            <ModelConditionUpgrade
+                id="931C692F"
+                RequiresAllTriggers="False"
+                RequiresAllConflictingTriggers="False"
+                Permanent="False"
+                WaypointMode="False"
+                WaypointModeTerminal="True"
+                AddConditionFlags="USER_6"
+                RemoveConditionFlags=""
+                AddTempConditionFlag="TOPPLED"
+                TempConditionTime="0s">
+                <TriggeredBy>Upgrade_SonicRepulsionField</TriggeredBy>
+            </ModelConditionUpgrade>
             <SlowDeath
                 id="73542D4A"
-                SinkRate="3"
+                SinkRate="4"
                 ProbabilityModifier="10"
                 ModifierBonusPerOverkillPercent="0%"
-                SinkDelay="4s"
+                SinkDelay="3s"
                 SinkDelayVariance="0s"
                 DestructionDelay="8s"
                 DestructionDelayVariance="0s"
@@ -495,7 +549,7 @@
                 Fade="False">
                 <Sound
                     Type="INITIAL"
-                    List="HumanFaction_MediumBuilding_DieMS" />
+                    List="HumanFaction_SmallBuilding_DieMS" />
                 <DieMuxData
                     ExemptStatus=""
                     RequiredStatus=""
@@ -517,7 +571,7 @@
                     DeathTypesForbidden="" />
                 <Event
                     Index="onTransitionToDamaged"
-                    FX="FX_BuildDamaged_Large"
+                    FX="FX_BuildDamaged_Medium"
                     MinThreshold="0"
                     MaxThreshold="0"
                     Direction="Default"
@@ -525,7 +579,7 @@
                     ForceUseDoFXObj="False" />
                 <Event
                     Index="onTransitionToReallyDamaged"
-                    FX="FX_BuildDamaged_Large"
+                    FX="FX_BuildDamaged_Medium"
                     MinThreshold="0"
                     MaxThreshold="0"
                     Direction="Default"
@@ -533,49 +587,96 @@
                     ForceUseDoFXObj="False" />
                 <Event
                     Index="onTransitionToRubble"
-                    FX="FX_BuildRubble_Large"
+                    FX="FX_BuildRubble_Medium"
                     MinThreshold="0"
                     MaxThreshold="0"
                     Direction="Default"
                     OrientToObject="True"
                     ForceUseDoFXObj="False" />
             </FXListBehavior>
-            <CreateObjectDie
-                id="36031C5A"
-                CreationList="TiberiumSpikeOCL">
-                <DieMuxData
-                    ExemptStatus=""
-                    RequiredStatus=""
-                    DamageAmountRequired="-1"
-                    MinKillerAngle="1d"
-                    MaxKillerAngle="-1d"
-                    DeathTypes="ALL"
-                    DeathTypesForbidden="SUICIDED" />
-            </CreateObjectDie>
-            <DistributedMoney
-                id="ModuleTag_DistributedMoney"
-                Capacity="99999999" />
-            <AutoDepositUpdate
-                InitialCaptureBonus="750"
-                DepositInterval="1s"
-                DepositAmount="150"
-                GiveNoXP="true"
-                Flags="ACTIVE_WHEN_REPAIRING"/>
-            <InvisibilityUpdate
-                id="ModuleTag_Invisibility"
-                Options="BROADCAST STARTS_ACTIVE"
-                BroadcastRange="10000"
-                UpdatePeriod="1.0s">
-                <InvisibilityNugget />
-                <BroadcastObjectFilter
-                    Rule="ANY"
-                    Relationship="ALLIES"
-                    Include="STRUCTURE INFANTRY VEHICLE AIRCRAFT">
-                    <ExcludeThing>NODDisruptionTower</ExcludeThing>
-                    <ExcludeThing>Viceroid</ExcludeThing>
-                    <ExcludeThing>AlienCrystalShield</ExcludeThing>
-                </BroadcastObjectFilter>
-            </InvisibilityUpdate>
+            <StructureUnpackUpdate
+                UnpackTime="1.5s" />
+            <ProductionUpdate
+                id="749674DE"
+                MaxQueueEntries="1"
+                NumDoorAnimations="0"
+                DoorOpeningTime="0s"
+                DoorOpeningTimeMetaUnit="0s"
+                DoorWaitOpenTime="0s"
+                DoorCloseTime="0s"
+                ConstructionCompleteDuration="0"
+                DisabledTypesToProcess=""
+                UnitInvulnerableTime="0"
+                SpecialPrepModelconditionTime="0"
+                BonusForType=""
+                SpeedBonusAudioLoop=""
+                Type="MAIN_STRUCTURE"
+                ProductionTimeDelayScalar="0s"
+                GiveNoXP="False"
+                VeteranUnitsFromVeteranFactory="False"
+                SetBonusModelConditionOnSpeedBonus="False"
+                SecondaryQueue="False"
+                IgnorePreReqs="False" />
+            <ProductionUpdate
+                id="999647B9"
+                MaxQueueEntries="1"
+                NumDoorAnimations="0"
+                DoorOpeningTime="0s"
+                DoorOpeningTimeMetaUnit="0s"
+                DoorWaitOpenTime="0s"
+                DoorCloseTime="0s"
+                ConstructionCompleteDuration="0"
+                DisabledTypesToProcess=""
+                UnitInvulnerableTime="0"
+                SpecialPrepModelconditionTime="0"
+                BonusForType=""
+                SpeedBonusAudioLoop=""
+                Type="OTHER_STRUCTURE"
+                ProductionTimeDelayScalar="0s"
+                GiveNoXP="False"
+                VeteranUnitsFromVeteranFactory="False"
+                SetBonusModelConditionOnSpeedBonus="False"
+                SecondaryQueue="False"
+                IgnorePreReqs="False" />
+            <ArmorUpgrade
+                id="D7169F09"
+                RequiresAllTriggers="False"
+                RequiresAllConflictingTriggers="False"
+                Permanent="True"
+                WaypointMode="False"
+                WaypointModeTerminal="True"
+                ArmorSetFlag="PLAYER_UPGRADE"
+                KillArmorUpgrade="False"
+                IgnoreArmorUpgrade="False">
+                <TriggeredBy>Upgrade_SonicRepulsionField</TriggeredBy>
+            </ArmorUpgrade>
+            <StatusBitsUpgrade
+                id="BA874D9A"
+                RequiresAllTriggers="False"
+                RequiresAllConflictingTriggers="False"
+                Permanent="False"
+                WaypointMode="False"
+                WaypointModeTerminal="True"
+                StatusToSet="RIDER1"
+                StatusToClear=""
+                ApplyToContained="False">
+                <TriggeredBy>Upgrade_SonicRepulsionField</TriggeredBy>
+            </StatusBitsUpgrade>
+            <RepairUpdate
+                id="41FDEB2A"
+                RepopThreshold="0.2"
+                HealAmountPerSecond="90"
+                Toggleable="True"
+                RepairableWhenDead="False">
+                <PercentOfBuildCostToRebuildInfo
+                    Pristine="50%"
+                    Damaged="50%"
+                    ReallyDamaged="50%"
+                    Rubble="50%" />
+                <SelfAudio
+                    SelfRepairFromDamageLoop=""
+                    SelfRepairFromRubbleLoop="" />
+            </RepairUpdate>
             <EngineerContain
                 id="E2BE8599"
                 ReplaceWith=""
@@ -606,48 +707,11 @@
                     <IncludeThing>Traveler59Assimilator</IncludeThing>
                 </CanEnterFilter>
             </EngineerContain>
-            <RepairUpdate
-                id="41FDEB2A"
-                RepopThreshold="0.2"
-                HealAmountPerSecond="90"
-                Toggleable="True"
-                RepairableWhenDead="False">
-                <PercentOfBuildCostToRebuildInfo
-                    Pristine="50%"
-                    Damaged="50%"
-                    ReallyDamaged="50%"
-                    Rubble="50%" />
-                <SelfAudio
-                    SelfRepairFromDamageLoop=""
-                    SelfRepairFromRubbleLoop="" />
-            </RepairUpdate>
         </Behaviors>
-        <AI>
-            <AIUpdate
-                id="12FA48BA"
-                AutoAcquireEnemiesWhenIdle="NO"
-                StopChaseDistance="500"
-                HoldGroundCloseRangeDistance="0"
-                AILuaEventsList="BuildingPowerFunctions"
-                MinCowerTime="0s"
-                MaxCowerTime="0s"
-                RampageTime="0s"
-                BurningDeathTime="0s"
-                TimeToEjectPassengersOnRampage="0"
-                ComboLocomotorSet="NORMAL"
-                ComboLocoAttackDistance="80"
-                IdleTargetTime="0s"
-                MaxCombineChildren="1"
-                SpawnOffsetRadius="0"
-                StandGround="False"
-                CanAttackWhileContained="False"
-                RampageRequiresAflame="False"
-                FadeOnPortals="False" />
-        </AI>
         <Body>
             <ActiveBody
                 id="B313F576"
-                MaxHealth="10000"
+                MaxHealth="3000"
                 MaxHealthDamaged="0"
                 MaxHealthReallyDamaged="0"
                 InitialHealth="-1"
@@ -666,84 +730,75 @@
                 SecondChanceHeal="0"
                 UseDefaultDamageSettings="True"
                 RemoveUpgradesOnDeath="False"
-                BurningDeathBehavior="False" />
+                BurningDeathBehavior="False">
+                <DamageTrigger
+                    HealthLevelBelowPercent="66"
+                    RemoveUpgrade="Upgrade_SonicRepulsionField"
+                    RemoveStatus="" />
+            </ActiveBody>
         </Body>
         <Geometry
             IsSmall="False">
             <Shape
-                Type="CYLINDER"
+                Type="BOX"
                 ContactPointGeneration="NONE"
-                MajorRadius="10.3081"
-                MinorRadius="10.3081"
-                Height="124.951"
+                MajorRadius="20"
+                MinorRadius="15"
+                Height="25"
                 FrontAngle="0d"
                 Active="True"
                 UsedForHealthBox="True">
                 <Offset
-                    x="-0.102257"
-                    y="0.291839"
-                    z="0" />
-            </Shape>
-            <Shape
-                Type="CYLINDER"
-                ContactPointGeneration="NONE"
-                MajorRadius="25.7703"
-                MinorRadius="25.7703"
-                Height="20.2843"
-                FrontAngle="0d"
-                Active="True"
-                UsedForHealthBox="True">
-                <Offset
-                    x="-0.102257"
-                    y="0.29184"
+                    x="0"
+                    y="0"
                     z="0" />
             </Shape>
             <ContactPoint>
                 <Pos
-                    x="-5.92092"
-                    y="-6.06962"
+                    x="-13"
+                    y="13"
+                    z="20" />
+            </ContactPoint>
+            <ContactPoint>
+                <Pos
+                    x="13"
+                    y="13"
                     z="0" />
             </ContactPoint>
             <ContactPoint>
                 <Pos
-                    x="4.93066"
-                    y="-6.06961"
-                    z="119.205" />
+                    x="13"
+                    y="-13"
+                    z="20" />
             </ContactPoint>
             <ContactPoint>
                 <Pos
-                    x="4.93066"
-                    y="4.78196"
+                    x="13"
+                    y="13"
                     z="0" />
             </ContactPoint>
             <ContactPoint>
                 <Pos
-                    x="-5.92092"
-                    y="4.78197"
-                    z="119.205" />
+                    x="-13"
+                    y="-13"
+                    z="20" />
             </ContactPoint>
             <ContactPoint>
                 <Pos
-                    x="-5.92092"
-                    y="-6.06961"
-                    z="119.205" />
-            </ContactPoint>
-            <ContactPoint>
-                <Pos
-                    x="4.93066"
-                    y="-6.06962"
+                    x="13"
+                    y="13"
                     z="0" />
             </ContactPoint>
             <ContactPoint>
                 <Pos
-                    x="4.93066"
-                    y="4.78197"
-                    z="119.205" />
+                    x="-13"
+                    y="-13"
+                    z="20" />
             </ContactPoint>
             <ContactPoint>
                 <Pos
-                    x="-5.92092"
-                    y="4.78196"
+                    x="-13"
+                    y="13"
                     z="0" />
             </ContactPoint>
         </Geometry>
@@ -755,15 +810,18 @@
                 EvaEvent="EnemyBuildingCaptured"
                 AudioType="voiceDefectingTowards" />
             <AudioEntry
-                Sound="TiberiumSpike_Select"
+                Sound="GDI_CraneSelect"
                 AudioType="voiceSelect" />
         </AudioArrayVoice>
         <AudioArraySound>
             <AudioEntry
-                Sound="HumanFaction_MediumBuilding_LightDamageMS"
+                Sound="GDI_BuildingPlaced"
+                AudioType="soundUnderConstruction" />
+            <AudioEntry
+                Sound="HumanFaction_SmallBuilding_LightDamageMS"
                 AudioType="soundOnDamaged" />
             <AudioEntry
-                Sound="HumanFaction_MediumBuilding_HeavyDamageMS"
+                Sound="HumanFaction_SmallBuilding_HeavyDamageMS"
                 AudioType="soundOnReallyDamaged" />
         </AudioArraySound>
         <EvaEvents
@@ -772,7 +830,16 @@
             EvaEventSecondDamageFarFromFirstScanRange="200"
             EvaEventSecondDamageFarFromFirstTimeoutMS="155"
             EvaEventRepairingOwner="StructureRepairing"
-            EvaEnemyObjectSightedEvent="EnemyCampSighted" />
+            EvaEnemyObjectSightedEvent="EnemyCampSighted"
+            EvaEventAvailableForProduction="NewConstructionOptions"
+            EvaEventProductionStarted="BuildingConstructionStarted"
+            EvaEventProductionComplete="BuildingConstructionComplete"
+            EvaEventPlacementFailed="StructurePlacementFailed"
+            EvaEventCannotBuildDueToFullBuildQueue="StructureCannotBuildDueToFullBuildQueue"
+            EvaEventBuildOnHold="BuildOnHold"
+            EvaEventBuildCancelled="BuildCancelled"
+            EvaEventManuallyPoweredOff="BuildingManuallyPoweredDown"
+            EvaEventManuallyPoweredOn="BuildingManuallyPoweredUp" />
         <ShadowInfo
             Type="VOLUME"
             Texture=""
@@ -793,8 +860,8 @@
             IsRotatingWithObject="True"
             LocalPlayerOnly="False" />
         <VisionInfo
-            VisionRange="500"
-            ShroudClearingRange="15000"
+            VisionRange="100"
+            ShroudClearingRange="400"
             VisionSide="100%"
             VisionRear="100%"
             VisionBonusTestRadius="100"
@@ -803,7 +870,7 @@
             MaxVisionBonusPercent="50%"
             MinVisionBonusPercent="-50%" />
         <ProjectedBuildabilityInfo
-            Radius="15000"
+            Radius="150"
             BuildPlacementTypes="MAIN_STRUCTURE OTHER_STRUCTURE"
             StatusToReject=""
             ModelConditionsToReject="" />
